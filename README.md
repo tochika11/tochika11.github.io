@@ -1,1 +1,1 @@
-# friendly-computing-machine
+# smash-tool
