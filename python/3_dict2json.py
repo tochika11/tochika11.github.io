@@ -28,3 +28,17 @@ sd = json.dumps(data, sort_keys=True, ensure_ascii=False, indent=2)
 
 with open("OutOfShieldStartup.json", mode='w') as f:
     json.dump(data, f, sort_keys=True, ensure_ascii=False, indent=2)
+
+# -------------------------------------
+# CharacterList
+# -------------------------------------
+with open("dict_CharacterList.pickle", mode='rb') as f:
+    data = pickle.load(f)
+
+#print(data)
+
+sd = json.dumps(data, sort_keys=True, ensure_ascii=False, indent=2)
+# print(sd)
+
+with open("CharacterList.json", mode='w') as f:
+    json.dump(data, f, sort_keys=True, ensure_ascii=False, indent=2)
