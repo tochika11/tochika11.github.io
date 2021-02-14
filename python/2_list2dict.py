@@ -96,6 +96,11 @@ for idx,elem in enumerate(data):
     _tmp["No."]           =elem[0]
     _tmp["fighter"]       =elem[1]
 
+    if _tmp["No."] == "":
+        continue
+    if _tmp["fighter"] == "":
+        continue
+
     _move={}
     _move['空N']            ={'forward' : elem[12]}
     _move['空前']             ={'forward' : elem[13]}
@@ -135,6 +140,9 @@ for idx,elem in enumerate(data):
     _tmp={}
     _tmp["No."]           =elem[0]
     # _tmp["fighter"]       =elem[1]
+    if _tmp["No."] == "":
+        continue
+
     if _tmp["No."] in OutOfSheildStartup:
         OutOfSheildStartup[_tmp["No."]]['OosStartup']['空N'].update({'back' : elem[12]})
         OutOfSheildStartup[_tmp["No."]]['OosStartup']['空前'].update({'back' : elem[13]})
