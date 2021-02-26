@@ -1,0 +1,922 @@
+{
+  "Mr.ゲーム&ウォッチ": {
+    "No.": "26",
+    "fighter": "Mr.ゲーム&ウォッチ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "Wii Fit トレーナー": {
+    "No.": "47",
+    "fighter": "Wii Fit トレーナー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "Wii Fit トレーナー (腹式)": {
+    "No.": "47",
+    "fighter": "Wii Fit トレーナー (腹式)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "Wii Fit トレーナー (通常)": {
+    "No.": "47",
+    "fighter": "Wii Fit トレーナー (通常)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "こどもリンク": {
+    "No.": "22",
+    "fighter": "こどもリンク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "しずえ": {
+    "No.": "68",
+    "fighter": "しずえ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "むらびと": {
+    "No.": "45",
+    "fighter": "むらびと",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "アイク": {
+    "No.": "32",
+    "fighter": "アイク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "アイスクライマー": {
+    "No.": "15",
+    "fighter": "アイスクライマー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "アイスクライマー (1人)": {
+    "No.": "15",
+    "fighter": "アイスクライマー (1人)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "アイスクライマー (2人)": {
+    "No.": "15",
+    "fighter": "アイスクライマー (2人)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "インクリング": {
+    "No.": "64",
+    "fighter": "インクリング",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ウルフ": {
+    "No.": "44",
+    "fighter": "ウルフ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "カムイ": {
+    "No.": "62",
+    "fighter": "カムイ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "カービィ": {
+    "No.": "6",
+    "fighter": "カービィ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ガオガエン": {
+    "No.": "69",
+    "fighter": "ガオガエン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ガノンドロフ": {
+    "No.": "23",
+    "fighter": "ガノンドロフ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "キャプテン・ファルコン": {
+    "No.": "11",
+    "fighter": "キャプテン・ファルコン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "キングクルール": {
+    "No.": "67",
+    "fighter": "キングクルール",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "クッパ": {
+    "No.": "14",
+    "fighter": "クッパ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "クッパ Jr.": {
+    "No.": "58",
+    "fighter": "クッパ Jr.",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "クラウド": {
+    "No.": "61",
+    "fighter": "クラウド",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "クロム": {
+    "No.": "25'",
+    "fighter": "クロム",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ケン": {
+    "No.": "60'",
+    "fighter": "ケン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ケン（強）": {
+    "No.": "60'",
+    "fighter": "ケン（強）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ゲッコウガ": {
+    "No.": "50",
+    "fighter": "ゲッコウガ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "サムス・ダークサムス": {
+    "No.": "4",
+    "fighter": "サムス・ダークサムス",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "シモン・リヒター": {
+    "No.": "66",
+    "fighter": "シモン・リヒター",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "シュルク": {
+    "No.": "57",
+    "fighter": "シュルク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "シュルク (撃)": {
+    "No.": "57",
+    "fighter": "シュルク (撃)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "シュルク (斬)": {
+    "No.": "57",
+    "fighter": "シュルク (斬)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "シュルク (疾)": {
+    "No.": "57",
+    "fighter": "シュルク (疾)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "シュルク (盾)": {
+    "No.": "57",
+    "fighter": "シュルク (盾)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "シュルク (通常)": {
+    "No.": "57",
+    "fighter": "シュルク (通常)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "シーク": {
+    "No.": "16",
+    "fighter": "シーク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ジョーカー": {
+    "No.": "71",
+    "fighter": "ジョーカー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ジョーカー (アルセーヌ)": {
+    "No.": "71",
+    "fighter": "ジョーカー (アルセーヌ)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（ダイヤ）": {
+    "No.": "77",
+    "fighter": "スティーブ（ダイヤ）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（木材）": {
+    "No.": "77",
+    "fighter": "スティーブ（木材）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（石）": {
+    "No.": "77",
+    "fighter": "スティーブ（石）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（装備なし）": {
+    "No.": "77",
+    "fighter": "スティーブ（装備なし）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（金）": {
+    "No.": "77",
+    "fighter": "スティーブ（金）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スティーブ（鉄）": {
+    "No.": "77",
+    "fighter": "スティーブ（鉄）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "スネーク": {
+    "No.": "31",
+    "fighter": "スネーク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ゼニガメ": {
+    "No.": "33",
+    "fighter": "ゼニガメ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ゼルダ": {
+    "No.": "17",
+    "fighter": "ゼルダ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ゼロスーツサムス": {
+    "No.": "29",
+    "fighter": "ゼロスーツサムス",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ソニック": {
+    "No.": "38",
+    "fighter": "ソニック",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ダックハント": {
+    "No.": "59",
+    "fighter": "ダックハント",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "テリー": {
+    "No.": "74",
+    "fighter": "テリー",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ディディーコング": {
+    "No.": "36",
+    "fighter": "ディディーコング",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "デデデ": {
+    "No.": "39",
+    "fighter": "デデデ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "トゥーンリンク": {
+    "No.": "43",
+    "fighter": "トゥーンリンク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ドクターマリオ": {
+    "No.": "18",
+    "fighter": "ドクターマリオ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ドンキーコング": {
+    "No.": "2",
+    "fighter": "ドンキーコング",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ナナ": {
+    "No.": "100",
+    "fighter": "ナナ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ネス": {
+    "No.": "10",
+    "fighter": "ネス",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "バンジョー&カズーイ": {
+    "No.": "73",
+    "fighter": "バンジョー&カズーイ",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "パックマン": {
+    "No.": "55",
+    "fighter": "パックマン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "パックンフラワー": {
+    "No.": "70",
+    "fighter": "パックンフラワー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "パルテナ": {
+    "No.": "54",
+    "fighter": "パルテナ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ピカチュウ": {
+    "No.": "8",
+    "fighter": "ピカチュウ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ピクミン&オリマー": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "ピクミン&オリマー (白)": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー (白)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ピクミン&オリマー (紫)": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー (紫)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ピクミン&オリマー (赤)": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー (赤)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ピクミン&オリマー (青)": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー (青)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ピクミン&オリマー (黄)": {
+    "No.": "40",
+    "fighter": "ピクミン&オリマー (黄)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ピチュー": {
+    "No.": "19",
+    "fighter": "ピチュー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ピット・ブラックピット": {
+    "No.": "28",
+    "fighter": "ピット・ブラックピット",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ピーチ・デイジー": {
+    "No.": "13",
+    "fighter": "ピーチ・デイジー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ファルコ": {
+    "No.": "20",
+    "fighter": "ファルコ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "フォックス": {
+    "No.": "7",
+    "fighter": "フォックス",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "フシギソウ": {
+    "No.": "34",
+    "fighter": "フシギソウ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "プリン": {
+    "No.": "12",
+    "fighter": "プリン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ベヨネッタ": {
+    "No.": "63",
+    "fighter": "ベヨネッタ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ベヨネッタ (長押し最速)": {
+    "No.": "63",
+    "fighter": "ベヨネッタ (長押し最速)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ベレト／ベレス": {
+    "No.": "75",
+    "fighter": "ベレト／ベレス",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "マリオ": {
+    "No.": "1",
+    "fighter": "マリオ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "マルス": {
+    "No.": "21",
+    "fighter": "マルス",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "マルス・ルキナ": {
+    "No.": "21",
+    "fighter": "マルス・ルキナ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "ミェンミェン": {
+    "No.": "76",
+    "fighter": "ミェンミェン",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ミュウツー": {
+    "No.": "24",
+    "fighter": "ミュウツー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "メタナイト": {
+    "No.": "27",
+    "fighter": "メタナイト",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ヨッシー": {
+    "No.": "5",
+    "fighter": "ヨッシー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リザードン": {
+    "No.": "35",
+    "fighter": "リザードン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リトル・マック": {
+    "No.": "49",
+    "fighter": "リトル・マック",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リドリー": {
+    "No.": "65",
+    "fighter": "リドリー",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リュウ": {
+    "No.": "60",
+    "fighter": "リュウ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リュウ（強）": {
+    "No.": "60",
+    "fighter": "リュウ（強）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "リュカ": {
+    "No.": "37",
+    "fighter": "リュカ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "リンク": {
+    "No.": "3",
+    "fighter": "リンク",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ルイージ": {
+    "No.": "9",
+    "fighter": "ルイージ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ルカリオ": {
+    "No.": "41",
+    "fighter": "ルカリオ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "ルカリオ (0%)": {
+    "No.": "41",
+    "fighter": "ルカリオ (0%)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ルカリオ (190%)": {
+    "No.": "41",
+    "fighter": "ルカリオ (190%)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ルカリオ (65%)": {
+    "No.": "41",
+    "fighter": "ルカリオ (65%)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ルキナ": {
+    "No.": "21'",
+    "fighter": "ルキナ",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ルフレ": {
+    "No.": "56",
+    "fighter": "ルフレ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "ルフレ (サンダーソード)": {
+    "No.": "56",
+    "fighter": "ルフレ (サンダーソード)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ルフレ (青銅)": {
+    "No.": "56",
+    "fighter": "ルフレ (青銅)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ロイ": {
+    "No.": "25",
+    "fighter": "ロイ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ロゼッタ&チコ": {
+    "No.": "48",
+    "fighter": "ロゼッタ&チコ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "ロゼッタ&チコ (チコ)": {
+    "No.": "48",
+    "fighter": "ロゼッタ&チコ (チコ)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ロゼッタ&チコ (ロゼッタ)": {
+    "No.": "48",
+    "fighter": "ロゼッタ&チコ (ロゼッタ)",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "ロックマン": {
+    "No.": "46",
+    "fighter": "ロックマン",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ロボット": {
+    "No.": "42",
+    "fighter": "ロボット",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ワリオ": {
+    "No.": "30",
+    "fighter": "ワリオ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "剣術Mii": {
+    "No.": "52",
+    "fighter": "剣術Mii",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "勇者": {
+    "No.": "72",
+    "fighter": "勇者",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "勇者（ためるバイキルト）": {
+    "No.": "72",
+    "fighter": "勇者（ためるバイキルト）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "勇者（ためる）": {
+    "No.": "72",
+    "fighter": "勇者（ためる）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "勇者（バイキルト）": {
+    "No.": "72",
+    "fighter": "勇者（バイキルト）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "射撃Mii": {
+    "No.": "53",
+    "fighter": "射撃Mii",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "格闘Mii": {
+    "No.": "51",
+    "fighter": "格闘Mii",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  }
+}

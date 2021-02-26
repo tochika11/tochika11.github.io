@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smash-tool/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/smash-tool/static/js/main.e3fc3160.chunk.js",
+    "main.js.map": "/smash-tool/static/js/main.e3fc3160.chunk.js.map",
+    "runtime-main.js": "/smash-tool/static/js/runtime-main.db1580fb.js",
+    "runtime-main.js.map": "/smash-tool/static/js/runtime-main.db1580fb.js.map",
+    "static/js/2.c3b73633.chunk.js": "/smash-tool/static/js/2.c3b73633.chunk.js",
+    "static/js/2.c3b73633.chunk.js.map": "/smash-tool/static/js/2.c3b73633.chunk.js.map",
+    "static/js/3.6744ddc8.chunk.js": "/smash-tool/static/js/3.6744ddc8.chunk.js",
+    "static/js/3.6744ddc8.chunk.js.map": "/smash-tool/static/js/3.6744ddc8.chunk.js.map",
+    "index.html": "/smash-tool/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/smash-tool/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.c3b73633.chunk.js.LICENSE.txt": "/smash-tool/static/js/2.c3b73633.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1580fb.js",
+    "static/js/2.c3b73633.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.e3fc3160.chunk.js"
+  ]
+}
