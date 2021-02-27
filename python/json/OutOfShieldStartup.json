@@ -1,0 +1,4952 @@
+{
+  "Mr.ゲーム&ウォッチ": {
+    "No.": "26",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "3",
+        "forward": "3"
+      },
+      "上スマ": {
+        "back": "21",
+        "forward": "22"
+      },
+      "上強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "25",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "15"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "Mr.ゲーム&ウォッチ"
+  },
+  "Wii Fit トレーナー": {
+    "No.": "47",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "14",
+        "forward": "14"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "30",
+        "forward": "29"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "12",
+        "forward": "12"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "8",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "Wii Fit トレーナー"
+  },
+  "こどもリンク": {
+    "No.": "22",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "24",
+        "forward": "16"
+      },
+      "上B": {
+        "back": "11",
+        "forward": "9"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "17"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "こどもリンク"
+  },
+  "しずえ": {
+    "No.": "68",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "22",
+        "forward": "18"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "25",
+        "forward": "25"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "16",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "しずえ"
+  },
+  "むらびと": {
+    "No.": "45",
+    "OosStartup": {
+      "DA": {
+        "back": "21",
+        "forward": "21"
+      },
+      "つかみ": {
+        "back": "26",
+        "forward": "18"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "36",
+        "forward": "36"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "16",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "むらびと"
+  },
+  "アイク": {
+    "No.": "32",
+    "OosStartup": {
+      "DA": {
+        "back": "27",
+        "forward": "27"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "15",
+        "forward": "15"
+      },
+      "上スマ": {
+        "back": "28",
+        "forward": "25"
+      },
+      "上強": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下スマ": {
+        "back": "25",
+        "forward": "24"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "42",
+        "forward": "42"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "18",
+        "forward": "16"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "17"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "アイク"
+  },
+  "アイスクライマー": {
+    "No.": "15",
+    "OosStartup": {
+      "DA": {
+        "back": "23",
+        "forward": "23"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "14",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "22",
+        "forward": "22"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "13"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "15"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "24"
+      },
+      "空後": {
+        "back": "11",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "アイスクライマー"
+  },
+  "インクリング": {
+    "No.": "64",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "18",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "インクリング"
+  },
+  "ウルフ": {
+    "No.": "44",
+    "OosStartup": {
+      "DA": {
+        "back": "23",
+        "forward": "23"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "18",
+        "forward": "18"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "13"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "31",
+        "forward": "31"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ウルフ"
+  },
+  "カムイ": {
+    "No.": "62",
+    "OosStartup": {
+      "DA": {
+        "back": "24",
+        "forward": "24"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "18",
+        "forward": "18"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "13"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "25",
+        "forward": "24"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "14",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "15",
+        "forward": "15"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "14"
+      },
+      "空後": {
+        "back": "16",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "カムイ"
+  },
+  "カービィ": {
+    "No.": "6",
+    "OosStartup": {
+      "DA": {
+        "back": "21",
+        "forward": "21"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "16",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "13",
+        "forward": "13"
+      },
+      "空上": {
+        "back": "16",
+        "forward": "13"
+      },
+      "空下": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "カービィ"
+  },
+  "ガオガエン": {
+    "No.": "69",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "11",
+        "forward": "11"
+      },
+      "上スマ": {
+        "back": "17",
+        "forward": "13"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "30",
+        "forward": "29"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ガオガエン"
+  },
+  "ガノンドロフ": {
+    "No.": "23",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "14",
+        "forward": "14"
+      },
+      "上スマ": {
+        "back": "23",
+        "forward": "20"
+      },
+      "上強": {
+        "back": "72",
+        "forward": "71"
+      },
+      "下スマ": {
+        "back": "27",
+        "forward": "26"
+      },
+      "下強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "弱": {
+        "back": "19",
+        "forward": "18"
+      },
+      "横スマ": {
+        "back": "40",
+        "forward": "40"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "20"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ガノンドロフ"
+  },
+  "キャプテン・ファルコン": {
+    "No.": "11",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "13",
+        "forward": "13"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "22"
+      },
+      "上強": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下スマ": {
+        "back": "31",
+        "forward": "30"
+      },
+      "下強": {
+        "back": "23",
+        "forward": "22"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "30",
+        "forward": "30"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "キャプテン・ファルコン"
+  },
+  "キングクルール": {
+    "No.": "67",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "21"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "34",
+        "forward": "33"
+      },
+      "下強": {
+        "back": "25",
+        "forward": "24"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "30",
+        "forward": "30"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "14"
+      },
+      "空後": {
+        "back": "22",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "キングクルール"
+  },
+  "クッパ": {
+    "No.": "14",
+    "OosStartup": {
+      "DA": {
+        "back": "23",
+        "forward": "23"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "上強": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "弱": {
+        "back": "19",
+        "forward": "18"
+      },
+      "横スマ": {
+        "back": "33",
+        "forward": "33"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "22",
+        "forward": "22"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "16"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "クッパ"
+  },
+  "クッパ Jr.": {
+    "No.": "58",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "23",
+        "forward": "15"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "17"
+      },
+      "上スマ": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "29",
+        "forward": "29"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "15",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "クッパ Jr."
+  },
+  "クラウド": {
+    "No.": "61",
+    "OosStartup": {
+      "DA": {
+        "back": "21",
+        "forward": "21"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "13"
+      },
+      "上B": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上スマ": {
+        "back": "19",
+        "forward": "15"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "30",
+        "forward": "30"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "8",
+        "forward": "15"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "14",
+        "forward": "14"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "22"
+      },
+      "空後": {
+        "back": "14",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "クラウド"
+  },
+  "クロム": {
+    "No.": "25'",
+    "OosStartup": {
+      "DA": {
+        "back": "25",
+        "forward": "25"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "10",
+        "forward": "10"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "15",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "11",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "クロム"
+  },
+  "ケン": {
+    "No.": "60'",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "10",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空前": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ケン"
+  },
+  "ゲッコウガ": {
+    "No.": "50",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "22",
+        "forward": "14"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "18",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "下スマ": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "21"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ゲッコウガ"
+  },
+  "サムス・ダークサムス": {
+    "No.": "4",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "27",
+        "forward": "19"
+      },
+      "上B": {
+        "back": "4",
+        "forward": "4"
+      },
+      "上スマ": {
+        "back": "37",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "27",
+        "forward": "26"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "21",
+        "forward": "21"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "33"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "サムス・ダークサムス"
+  },
+  "シモン・リヒター": {
+    "No.": "66",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "14"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "下スマ": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "35",
+        "forward": "35"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "17"
+      },
+      "空後": {
+        "back": "17",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "シモン・リヒター"
+  },
+  "シュルク": {
+    "No.": "57",
+    "OosStartup": {
+      "DA": {
+        "back": "24",
+        "forward": "24"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "10",
+        "forward": "10"
+      },
+      "上スマ": {
+        "back": "18",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下スマ": {
+        "back": "30",
+        "forward": "29"
+      },
+      "下強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "25",
+        "forward": "25"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "17",
+        "forward": "18"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "19"
+      },
+      "空後": {
+        "back": "25",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "シュルク"
+  },
+  "シーク": {
+    "No.": "16",
+    "OosStartup": {
+      "DA": {
+        "back": "17",
+        "forward": "17"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "11",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "23",
+        "forward": "23"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "18"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空後": {
+        "back": "7",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "シーク"
+  },
+  "ジョーカー": {
+    "No.": "71",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "18",
+        "forward": "16"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "16",
+        "forward": "18"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ジョーカー"
+  },
+  "スネーク": {
+    "No.": "31",
+    "OosStartup": {
+      "DA": {
+        "back": "17",
+        "forward": "17"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "52",
+        "forward": "52"
+      },
+      "横強": {
+        "back": "15",
+        "forward": "15"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空上": {
+        "back": "13",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "12",
+        "forward": "6"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "28"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "スネーク"
+  },
+  "ゼニガメ": {
+    "No.": "33",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上スマ": {
+        "back": "19",
+        "forward": "19"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "30",
+        "forward": "29"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "31",
+        "forward": "31"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空後": {
+        "back": "8",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ゼニガメ"
+  },
+  "ゼルダ": {
+    "No.": "17",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "22",
+        "forward": "14"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ゼルダ"
+  },
+  "ゼロスーツサムス": {
+    "No.": "29",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "27",
+        "forward": "19"
+      },
+      "上B": {
+        "back": "4",
+        "forward": "4"
+      },
+      "上スマ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "下スマ": {
+        "back": "32",
+        "forward": "31"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "13",
+        "forward": "12"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空後": {
+        "back": "11",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ゼロスーツサムス"
+  },
+  "ソニック": {
+    "No.": "38",
+    "OosStartup": {
+      "DA": {
+        "back": "17",
+        "forward": "17"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "21",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "29",
+        "forward": "29"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空後": {
+        "back": "16",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ソニック"
+  },
+  "ダックハント": {
+    "No.": "59",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ダックハント"
+  },
+  "ディディーコング": {
+    "No.": "36",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上スマ": {
+        "back": "8",
+        "forward": "5"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "23",
+        "forward": "23"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空後": {
+        "back": "8",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ディディーコング"
+  },
+  "デデデ": {
+    "No.": "39",
+    "OosStartup": {
+      "DA": {
+        "back": "38",
+        "forward": "38"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "21",
+        "forward": "17"
+      },
+      "上強": {
+        "back": "22",
+        "forward": "22"
+      },
+      "下スマ": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "22",
+        "forward": "21"
+      },
+      "横スマ": {
+        "back": "51",
+        "forward": "51"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "25",
+        "forward": "25"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "18"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "デデデ"
+  },
+  "トゥーンリンク": {
+    "No.": "43",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "24",
+        "forward": "16"
+      },
+      "上B": {
+        "back": "8",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "16",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "17"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "トゥーンリンク"
+  },
+  "ドクターマリオ": {
+    "No.": "18",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "3",
+        "forward": "3"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "7"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "20"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ドクターマリオ"
+  },
+  "ドンキーコング": {
+    "No.": "2",
+    "OosStartup": {
+      "DA": {
+        "back": "21",
+        "forward": "21"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "23",
+        "forward": "22"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "33",
+        "forward": "33"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "25"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ドンキーコング"
+  },
+  "ナナ": {
+    "No.": "100",
+    "OosStartup": {
+      "DA": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "つかみ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "下スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "下強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "弱": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "横スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "横強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ナナ"
+  },
+  "ネス": {
+    "No.": "10",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "24",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "32",
+        "forward": "32"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ネス"
+  },
+  "パックマン": {
+    "No.": "55",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "24",
+        "forward": "16"
+      },
+      "上B": {
+        "back": "4",
+        "forward": "4"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "27",
+        "forward": "26"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "パックマン"
+  },
+  "パックンフラワー": {
+    "No.": "70",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "26",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "12",
+        "forward": "12"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "17",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "パックンフラワー"
+  },
+  "パルテナ": {
+    "No.": "54",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "29",
+        "forward": "28"
+      },
+      "下強": {
+        "back": "26",
+        "forward": "25"
+      },
+      "弱": {
+        "back": "20",
+        "forward": "19"
+      },
+      "横スマ": {
+        "back": "29",
+        "forward": "29"
+      },
+      "横強": {
+        "back": "25",
+        "forward": "25"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "8"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "13",
+        "forward": "13"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "12"
+      },
+      "空後": {
+        "back": "11",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "パルテナ"
+  },
+  "ピカチュウ": {
+    "No.": "8",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "14",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "7",
+        "forward": "11"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "14"
+      },
+      "空後": {
+        "back": "7",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ピカチュウ"
+  },
+  "ピクミン&オリマー": {
+    "No.": "40",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "24",
+        "forward": "16"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "22",
+        "forward": "21"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "22",
+        "forward": "22"
+      },
+      "横強": {
+        "back": "26",
+        "forward": "26"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "12",
+        "forward": "12"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ピクミン&オリマー"
+  },
+  "ピチュー": {
+    "No.": "19",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "10",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "7",
+        "forward": "12"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "8",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ピチュー"
+  },
+  "ピット・ブラックピット": {
+    "No.": "28",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "7"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "21",
+        "forward": "21"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "12",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "13",
+        "forward": "14"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "14"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ピット・ブラックピット"
+  },
+  "ピーチ・デイジー": {
+    "No.": "13",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上スマ": {
+        "back": "25",
+        "forward": "14"
+      },
+      "上強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "15",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "21"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ピーチ・デイジー"
+  },
+  "ファルコ": {
+    "No.": "20",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "7"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "13",
+        "forward": "13"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ファルコ"
+  },
+  "フォックス": {
+    "No.": "7",
+    "OosStartup": {
+      "DA": {
+        "back": "16",
+        "forward": "16"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "10",
+        "forward": "8"
+      },
+      "上強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "フォックス"
+  },
+  "フシギソウ": {
+    "No.": "34",
+    "OosStartup": {
+      "DA": {
+        "back": "16",
+        "forward": "16"
+      },
+      "つかみ": {
+        "back": "25",
+        "forward": "17"
+      },
+      "上B": {
+        "back": "15",
+        "forward": "15"
+      },
+      "上スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "25",
+        "forward": "24"
+      },
+      "下強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "弱": {
+        "back": "19",
+        "forward": "18"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "14",
+        "forward": "14"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "18"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "フシギソウ"
+  },
+  "プリン": {
+    "No.": "12",
+    "OosStartup": {
+      "DA": {
+        "back": "17",
+        "forward": "17"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "16",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下スマ": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "12",
+        "forward": "18"
+      },
+      "空下": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "プリン"
+  },
+  "ベヨネッタ": {
+    "No.": "63",
+    "OosStartup": {
+      "DA": {
+        "back": "27",
+        "forward": "27"
+      },
+      "つかみ": {
+        "back": "21",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "18"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "32",
+        "forward": "31"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "21",
+        "forward": "20"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "21"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ベヨネッタ"
+  },
+  "マリオ": {
+    "No.": "1",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "3",
+        "forward": "3"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "7"
+      },
+      "空下": {
+        "back": "8",
+        "forward": "8"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "19"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "マリオ"
+  },
+  "マルス・ルキナ": {
+    "No.": "21",
+    "OosStartup": {
+      "DA": {
+        "back": "25",
+        "forward": "25"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "5",
+        "forward": "5"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "13"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "21",
+        "forward": "21"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "12",
+        "forward": "14"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "マルス・ルキナ"
+  },
+  "ミュウツー": {
+    "No.": "24",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "33",
+        "forward": "32"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "30",
+        "forward": "30"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "16",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ミュウツー"
+  },
+  "メタナイト": {
+    "No.": "27",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上スマ": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "35",
+        "forward": "35"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "9",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "12"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "メタナイト"
+  },
+  "ヨッシー": {
+    "No.": "5",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "26",
+        "forward": "18"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "15",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "25",
+        "forward": "25"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "8",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "21"
+      },
+      "空後": {
+        "back": "14",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ヨッシー"
+  },
+  "リザードン": {
+    "No.": "35",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "6"
+      },
+      "上強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下スマ": {
+        "back": "26",
+        "forward": "25"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "33",
+        "forward": "33"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "15"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "17",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リザードン"
+  },
+  "リトル・マック": {
+    "No.": "49",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "21",
+        "forward": "13"
+      },
+      "上B": {
+        "back": "3",
+        "forward": "3"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "22",
+        "forward": "21"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "13",
+        "forward": "12"
+      },
+      "横スマ": {
+        "back": "25",
+        "forward": "25"
+      },
+      "横強": {
+        "back": "15",
+        "forward": "15"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "5"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "14",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リトル・マック"
+  },
+  "リドリー": {
+    "No.": "65",
+    "OosStartup": {
+      "DA": {
+        "back": "24",
+        "forward": "24"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "16"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "36",
+        "forward": "35"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "29",
+        "forward": "29"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "22",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "14"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リドリー"
+  },
+  "リュウ": {
+    "No.": "60",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "10",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空前": {
+        "back": "11",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リュウ"
+  },
+  "リュカ": {
+    "No.": "37",
+    "OosStartup": {
+      "DA": {
+        "back": "25",
+        "forward": "25"
+      },
+      "つかみ": {
+        "back": "24",
+        "forward": "16"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "32",
+        "forward": "31"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "25",
+        "forward": "25"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "10",
+        "forward": "12"
+      },
+      "空下": {
+        "back": "13",
+        "forward": "13"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "12"
+      },
+      "空後": {
+        "back": "20",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リュカ"
+  },
+  "リンク": {
+    "No.": "3",
+    "OosStartup": {
+      "DA": {
+        "back": "32",
+        "forward": "32"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "24",
+        "forward": "23"
+      },
+      "下強": {
+        "back": "22",
+        "forward": "21"
+      },
+      "弱": {
+        "back": "20",
+        "forward": "19"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "26",
+        "forward": "26"
+      },
+      "空N": {
+        "back": "10",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "19"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "リンク"
+  },
+  "ルイージ": {
+    "No.": "9",
+    "OosStartup": {
+      "DA": {
+        "back": "16",
+        "forward": "16"
+      },
+      "つかみ": {
+        "back": "26",
+        "forward": "18"
+      },
+      "上B": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上スマ": {
+        "back": "9",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "23",
+        "forward": "23"
+      },
+      "横強": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空N": {
+        "back": "6",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "9",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ルイージ"
+  },
+  "ルカリオ": {
+    "No.": "41",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "15",
+        "forward": "15"
+      },
+      "上強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "下スマ": {
+        "back": "31",
+        "forward": "30"
+      },
+      "下強": {
+        "back": "21",
+        "forward": "20"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ルカリオ"
+  },
+  "ルフレ": {
+    "No.": "56",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "28",
+        "forward": "27"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "16",
+        "forward": "15"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "25",
+        "forward": "11"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "16",
+        "forward": "16"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "15"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ルフレ"
+  },
+  "ロイ": {
+    "No.": "25",
+    "OosStartup": {
+      "DA": {
+        "back": "25",
+        "forward": "25"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "9",
+        "forward": "9"
+      },
+      "上スマ": {
+        "back": "12",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "24",
+        "forward": "24"
+      },
+      "横強": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空上": {
+        "back": "15",
+        "forward": "8"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "11",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ロイ"
+  },
+  "ロゼッタ&チコ": {
+    "No.": "48",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "19",
+        "forward": "11"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "14",
+        "forward": "8"
+      },
+      "上強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下スマ": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "17",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "13"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ロゼッタ&チコ"
+  },
+  "ロックマン": {
+    "No.": "46",
+    "OosStartup": {
+      "DA": {
+        "back": "20",
+        "forward": "20"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "8",
+        "forward": "8"
+      },
+      "上強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "下スマ": {
+        "back": "29",
+        "forward": "28"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "横スマ": {
+        "back": "30",
+        "forward": "30"
+      },
+      "横強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "10"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "26",
+        "forward": "26"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "12"
+      },
+      "空後": {
+        "back": "7",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ロックマン"
+  },
+  "ロボット": {
+    "No.": "42",
+    "OosStartup": {
+      "DA": {
+        "back": "19",
+        "forward": "19"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "10",
+        "forward": "10"
+      },
+      "上強": {
+        "back": "16",
+        "forward": "15"
+      },
+      "下スマ": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下強": {
+        "back": "15",
+        "forward": "14"
+      },
+      "弱": {
+        "back": "15",
+        "forward": "14"
+      },
+      "横スマ": {
+        "back": "27",
+        "forward": "27"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "17",
+        "forward": "27"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "24",
+        "forward": "24"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空後": {
+        "back": "22",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ロボット"
+  },
+  "ワリオ": {
+    "No.": "30",
+    "OosStartup": {
+      "DA": {
+        "back": "17",
+        "forward": "17"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "12"
+      },
+      "上B": {
+        "back": "6",
+        "forward": "6"
+      },
+      "上スマ": {
+        "back": "11",
+        "forward": "12"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "20",
+        "forward": "19"
+      },
+      "横スマ": {
+        "back": "29",
+        "forward": "29"
+      },
+      "横強": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空N": {
+        "back": "7",
+        "forward": "7"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "12",
+        "forward": "12"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "8"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "ワリオ"
+  },
+  "剣術Mii": {
+    "No.": "52",
+    "OosStartup": {
+      "DA": {
+        "back": "21",
+        "forward": "21"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
+      },
+      "上スマ": {
+        "back": "15",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "19",
+        "forward": "18"
+      },
+      "下強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "弱": {
+        "back": "18",
+        "forward": "17"
+      },
+      "横スマ": {
+        "back": "26",
+        "forward": "26"
+      },
+      "横強": {
+        "back": "21",
+        "forward": "21"
+      },
+      "空N": {
+        "back": "13",
+        "forward": "19"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "15"
+      },
+      "空後": {
+        "back": "13",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "剣術Mii"
+  },
+  "勇者": {
+    "No.": "72",
+    "OosStartup": {
+      "DA": {
+        "back": "33",
+        "forward": "33"
+      },
+      "つかみ": {
+        "back": "20",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "7",
+        "forward": "7"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "18",
+        "forward": "17"
+      },
+      "弱": {
+        "back": "18",
+        "forward": "17"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "20",
+        "forward": "20"
+      },
+      "空N": {
+        "back": "18",
+        "forward": "16"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "19"
+      },
+      "空後": {
+        "back": "21",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "勇者"
+  },
+  "射撃Mii": {
+    "No.": "53",
+    "OosStartup": {
+      "DA": {
+        "back": "22",
+        "forward": "22"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
+      },
+      "上スマ": {
+        "back": "23",
+        "forward": "11"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "20",
+        "forward": "19"
+      },
+      "弱": {
+        "back": "17",
+        "forward": "16"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "18",
+        "forward": "18"
+      },
+      "空N": {
+        "back": "20",
+        "forward": "18"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "23",
+        "forward": "23"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "12",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "射撃Mii"
+  },
+  "格闘Mii": {
+    "No.": "51",
+    "OosStartup": {
+      "DA": {
+        "back": "18",
+        "forward": "18"
+      },
+      "つかみ": {
+        "back": "18",
+        "forward": "10"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
+      },
+      "上スマ": {
+        "back": "13",
+        "forward": "8"
+      },
+      "上強": {
+        "back": "17",
+        "forward": "16"
+      },
+      "下スマ": {
+        "back": "21",
+        "forward": "20"
+      },
+      "下強": {
+        "back": "19",
+        "forward": "18"
+      },
+      "弱": {
+        "back": "14",
+        "forward": "13"
+      },
+      "横スマ": {
+        "back": "28",
+        "forward": "28"
+      },
+      "横強": {
+        "back": "17",
+        "forward": "17"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "6"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "9"
+      },
+      "空下": {
+        "back": "19",
+        "forward": "19"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "11"
+      },
+      "空後": {
+        "back": "10",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "格闘Mii"
+  }
+}

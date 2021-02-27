@@ -1,17 +1,51 @@
 import pickle
 import pprint
 
+def modifyFrame(key):
+    result = 'unknown'
+    if not key.isdecimal() :
+        ignoreList = ['','-',' ']
+        if key in ignoreList:
+            result = 'DontHave'
+            # it means that the fighter does Not have this move.
+        else :
+            try :
+                floatKey = float(key)
+                q,mod = divmod(floatKey, 1)
+                if q == floatKey and mod == 0:
+                    result = str(int(floatKey))  # integer
+                else:
+                    result = key  # float. maybe it means that tool(sheet2list) has any glitches.
+            except ValueError:
+                result = 'ToBeUpdated'
+                # maybe it means that data source is on comments or has some lines.
+                # so if we update tools, then frame data will be available.
+    else:
+        result = key # integer
+    return result
+
+print("generate SheetProperties")
+with open("list_SheetProperties.pickle", mode='rb') as f:
+    data = pickle.load(f)
+
+dict_of_dict={}
+for value in data:
+    dict_of_dict.update(value)
+
+print(dict_of_dict)
+with open("dict_SheetProperties.pickle", mode='wb') as f:
+    pickle.dump(dict_of_dict,f)
+
+
 print("generate ShieldLag")
 #list_ShieldLagGround
 #load pickle
 with open("list_ShieldLag.pickle", mode='rb') as f:
     data = pickle.load(f)
 
-#print(data)
 
 FIGHTER_NAME_IGNORE="DLC"
 
-#list2dict
 ShieldsLag={}
 for idx,elem in enumerate(data):
     if idx==0:
@@ -27,15 +61,15 @@ for idx,elem in enumerate(data):
         continue
 
     _move={}
-    _move["弱3"]           =elem[13]
-    _move["百列〆"]        =elem[17]
-    _move["ダッシュ攻撃"]   =elem[21]
-    _move["横強"]          =elem[25]
-    _move["上強"]          =elem[29]
-    _move["下強"]          =elem[32]
-    _move["横スマッシュ"]   =elem[37]
-    _move["上スマッシュ"]   =elem[41]
-    _move["下スマッシュ"]   =elem[45]
+    _move["弱3"]           =modifyFrame(elem[13])
+    _move["百列〆"]        =modifyFrame(elem[17])
+    _move["ダッシュ攻撃"]   =modifyFrame(elem[21])
+    _move["横強"]          =modifyFrame(elem[25])
+    _move["上強"]          =modifyFrame(elem[29])
+    _move["下強"]          =modifyFrame(elem[33])
+    _move["横スマッシュ"]   =modifyFrame(elem[37])
+    _move["上スマッシュ"]   =modifyFrame(elem[41])
+    _move["下スマッシュ"]   =modifyFrame(elem[45])
     _tmp_ShieldsLag["ShieldsLag"] = _move
 
     ShieldsLag[_tmp_ShieldsLag["fighter"]]=_tmp_ShieldsLag
@@ -71,11 +105,11 @@ for idx,elem in enumerate(data):
         continue
 
     _move={}
-    _move["通常空中攻撃"]   =elem[8]
-    _move["前空中攻撃"]     =elem[15]
-    _move["後空中攻撃"]     =elem[22]
-    _move["上空中攻撃"]     =elem[29]
-    _move["下空中攻撃"]     =elem[36]
+    _move["通常空中攻撃"]   =modifyFrame(elem[8])
+    _move["前空中攻撃"]     =modifyFrame(elem[15])
+    _move["後空中攻撃"]     =modifyFrame(elem[22])
+    _move["上空中攻撃"]     =modifyFrame(elem[29])
+    _move["下空中攻撃"]     =modifyFrame(elem[36])
     _tmp_ShieldsLag["ShieldsLag"] = _move
 
 #    print(_tmp_ShieldsLag["No."])
@@ -127,21 +161,21 @@ for idx,elem in enumerate(data):
         continue
 
     _move={}
-    _move['空N']            ={'forward' : elem[12]}
-    _move['空前']             ={'forward' : elem[13]}
-    _move['空後']             ={'forward' : elem[14]}
-    _move['空上']             ={'forward' : elem[15]}
-    _move['空下']            ={'forward' : elem[16]}
-    _move['つかみ']          ={'forward' : elem[17]}
-    _move['上スマ']           ={'forward' : elem[18]}
-    _move['上B']             ={'forward' : elem[19]}
-    _move['弱']			    ={'forward' : elem[20]}
-    _move['DA']		    	={'forward' : elem[21]}
-    _move['横強']			={'forward' : elem[22]}
-    _move['上強']			={'forward' : elem[23]}
-    _move['下強']			={'forward' : elem[24]}
-    _move['横スマ']			={'forward' : elem[25]}
-    _move['下スマ']			={'forward' : elem[26]}
+    _move['空N']            ={'forward' : modifyFrame(elem[12])}
+    _move['空前']             ={'forward' : modifyFrame(elem[13])}
+    _move['空後']             ={'forward' : modifyFrame(elem[14])}
+    _move['空上']             ={'forward' : modifyFrame(elem[15])}
+    _move['空下']            ={'forward' : modifyFrame(elem[16])}
+    _move['つかみ']          ={'forward' : modifyFrame(elem[17])}
+    _move['上スマ']           ={'forward' : modifyFrame(elem[18])}
+    _move['上B']             ={'forward' : modifyFrame(elem[19])}
+    _move['弱']			    ={'forward' : modifyFrame(elem[20])}
+    _move['DA']		    	={'forward' : modifyFrame(elem[21])}
+    _move['横強']			={'forward' : modifyFrame(elem[22])}
+    _move['上強']			={'forward' : modifyFrame(elem[23])}
+    _move['下強']			={'forward' : modifyFrame(elem[24])}
+    _move['横スマ']			={'forward' : modifyFrame(elem[25])}
+    _move['下スマ']			={'forward' : modifyFrame(elem[26])}
 
     _tmp['OosStartup'] = _move
 #    print(_tmp)
@@ -171,38 +205,38 @@ for idx,elem in enumerate(data):
         continue
 
     if _tmp["fighter"] in OutOfSheildStartup:
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空N'].update({'back' : elem[12]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空前'].update({'back' : elem[13]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空後'].update({'back' : elem[14]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空上'].update({'back' : elem[15]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空下'].update({'back' : elem[16]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['つかみ'].update({'back' : elem[17]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上スマ'].update({'back' : elem[18]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上B'].update({'back' : elem[19]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['弱'].update({'back' : elem[20]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['DA'].update({'back' : elem[21]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['横強'].update({'back' : elem[22]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上強'].update({'back' : elem[23]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['下強'].update({'back' : elem[24]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['横スマ'].update({'back' : elem[25]})
-        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['下スマ'].update({'back' : elem[26]})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空N'].update({'back' : modifyFrame(elem[12])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空前'].update({'back' : modifyFrame(elem[13])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空後'].update({'back' : modifyFrame(elem[14])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空上'].update({'back' : modifyFrame(elem[15])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['空下'].update({'back' : modifyFrame(elem[16])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['つかみ'].update({'back' : modifyFrame(elem[17])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上スマ'].update({'back' : modifyFrame(elem[18])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上B'].update({'back' : modifyFrame(elem[19])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['弱'].update({'back' : modifyFrame(elem[20])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['DA'].update({'back' : modifyFrame(elem[21])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['横強'].update({'back' : modifyFrame(elem[22])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['上強'].update({'back' : modifyFrame(elem[23])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['下強'].update({'back' : modifyFrame(elem[24])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['横スマ'].update({'back' : modifyFrame(elem[25])})
+        OutOfSheildStartup[_tmp["fighter"]]['OosStartup']['下スマ'].update({'back' : modifyFrame(elem[26])})
     else:
         _move={}
-        _move['空N']             ={'back' : elem[12]}
-        _move['空前']            ={'back' : elem[13]}
-        _move['空後']            ={'back' : elem[14]}
-        _move['空上']            ={'back' : elem[15]}
-        _move['空下']            ={'back' : elem[16]}
-        _move['つかみ']          ={'back' : elem[17]}
-        _move['上スマ']          ={'back' : elem[18]}
-        _move['上B']             ={'back' : elem[19]}
-        _move['弱']			     ={'back' : elem[20]}
-        _move['DA']		    	 ={'back' : elem[21]}
-        _move['横強']			 ={'back' : elem[22]}
-        _move['上強']			 ={'back' : elem[23]}
-        _move['下強']			 ={'back' : elem[24]}
-        _move['横スマ']			 ={'back' : elem[25]}
-        _move['下スマ']			 ={'back' : elem[26]}
+        _move['空N']             ={'back' : modifyFrame(elem[12])}
+        _move['空前']            ={'back' : modifyFrame(elem[13])}
+        _move['空後']            ={'back' : modifyFrame(elem[14])}
+        _move['空上']            ={'back' : modifyFrame(elem[15])}
+        _move['空下']            ={'back' : modifyFrame(elem[16])}
+        _move['つかみ']          ={'back' : modifyFrame(elem[17])}
+        _move['上スマ']          ={'back' : modifyFrame(elem[18])}
+        _move['上B']             ={'back' : modifyFrame(elem[19])}
+        _move['弱']			     ={'back' : modifyFrame(elem[20])}
+        _move['DA']		    	 ={'back' : modifyFrame(elem[21])}
+        _move['横強']			 ={'back' : modifyFrame(elem[22])}
+        _move['上強']			 ={'back' : modifyFrame(elem[23])}
+        _move['下強']			 ={'back' : modifyFrame(elem[24])}
+        _move['横スマ']			 ={'back' : modifyFrame(elem[25])}
+        _move['下スマ']			 ={'back' : modifyFrame(elem[26])}
         _tmp['OosStartup']       = _move
 
         # print('append new fighter. ', _tmp)
