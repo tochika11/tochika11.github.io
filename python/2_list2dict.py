@@ -13,6 +13,7 @@ def modifyFrame(key):
                 floatKey = float(key)
                 q,mod = divmod(floatKey, 1)
                 if q == floatKey and mod == 0:
+                    print(key,'->',str(int(floatKey)))
                     result = str(int(floatKey))  # integer
                 else:
                     result = key  # float. maybe it means that tool(sheet2list) has any glitches.
@@ -74,10 +75,6 @@ for idx,elem in enumerate(data):
 
     ShieldsLag[_tmp_ShieldsLag["fighter"]]=_tmp_ShieldsLag
 
-#print(ShieldsLag["1"])
-#print(ShieldsLag["21'"])
-#print(ShieldsLag)
-
 #list_ShieldLagGround
 #load pickle
 with open("list_ShieldLagAerial.pickle", mode='rb') as f:
@@ -112,11 +109,7 @@ for idx,elem in enumerate(data):
     _move["下空中攻撃"]     =modifyFrame(elem[36])
     _tmp_ShieldsLag["ShieldsLag"] = _move
 
-#    print(_tmp_ShieldsLag["No."])
     if _tmp_ShieldsLag["fighter"] in ShieldsLag:
-#        print("append",_tmp_ShieldsLag)
-#        print("to", ShieldsLag[_tmp_ShieldsLag["fighter"]])
-#        ShieldsLag[_tmp_ShieldsLag["fighter"]].update(_tmp_ShieldsLag)
         ShieldsLag[_tmp_ShieldsLag["fighter"]]["ShieldsLag"].update(_tmp_ShieldsLag["ShieldsLag"])
     else:
         if _tmp_ShieldsLag["fighter"] in ShieldsLagGroudFighterName_KeyIsAerial:
@@ -128,8 +121,6 @@ for idx,elem in enumerate(data):
         else:
             print("new key",_tmp_ShieldsLag["fighter"], _tmp_ShieldsLag)
             ShieldsLag[_tmp_ShieldsLag["fighter"]]=_tmp_ShieldsLag
-
-#print(ShieldsLag)
 
 with open("dict_ShieldsLag.pickle", mode='wb') as f:
     pickle.dump(ShieldsLag,f)
@@ -178,12 +169,7 @@ for idx,elem in enumerate(data):
     _move['下スマ']			={'forward' : modifyFrame(elem[26])}
 
     _tmp['OosStartup'] = _move
-#    print(_tmp)
     OutOfSheildStartup[_tmp["fighter"]]=_tmp
-
-# print("Oos move forward")
-# print(OutOfSheildStartup)
-# print(OutOfSheildStartup['1'])
 
 #load pickle
 with open("list_OutOfSheildStartupBack.pickle", mode='rb') as f:
@@ -239,12 +225,7 @@ for idx,elem in enumerate(data):
         _move['下スマ']			 ={'back' : modifyFrame(elem[26])}
         _tmp['OosStartup']       = _move
 
-        # print('append new fighter. ', _tmp)
         OutOfSheildStartup[_tmp["fighter"]]=_tmp
-
-# print("Oos move all")
-# print(OutOfSheildStartup)
-#print(OutOfSheildStartup['1'])
 
 with open("dict_OutOfShieldStartup.pickle", mode='wb') as f:
     pickle.dump(OutOfSheildStartup,f)
@@ -255,9 +236,7 @@ with open("dict_OutOfShieldStartup.pickle", mode='wb') as f:
 print("\ngenerate CharacterList")
 
 CharacterList={}
-# print("OutOfSheildStartup")
 for elem in OutOfSheildStartup.values():
-    # print(elem)
     if elem["fighter"] == "":
         continue
 
@@ -270,7 +249,6 @@ for elem in OutOfSheildStartup.values():
     else:
         CharacterList[_tmp["fighter"]] = _tmp
 
-# print("ShieldsLag")
 for elem in ShieldsLag.values():
     if elem["fighter"] == "":
         continue
@@ -289,7 +267,6 @@ for elem in ShieldsLag.values():
         _tmp["property"]    ={"ShieldsLag": True}
 
         CharacterList[_tmp["fighter"]] = _tmp
-        # print("append new fighter name from ShieldsLag", _tmp)
 
 #-------------------------------
 # check property
@@ -301,8 +278,6 @@ for elem in CharacterList.values():
     if 'OutOfSheildStartup' not in elem['property']:
         elem['property'].update({"OutOfSheildStartup": False})
         print('OutOfSheildStartup is not defined.', elem['fighter'], elem['No.'])
-
-# print(CharacterList)
 
 with open("dict_CharacterList.pickle", mode='wb') as f:
     pickle.dump(CharacterList,f)

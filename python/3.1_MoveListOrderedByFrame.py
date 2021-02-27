@@ -10,11 +10,8 @@ with open("dict_ShieldsLag.pickle", mode='rb') as f:
 
 print("dict_ShieldsLag")
 for fighter in data.values():
-    # print(fighter["fighter"], fighter)
     for move,frame in fighter["ShieldsLag"].items():
-        # print(move,frame)
         moveProp = {"move": move , "type":"ShieldsLag"}
-        # print(MoveList)
         if frame in MoveList :
             if fighter["fighter"] in MoveList[frame] :
                 MoveList[frame][fighter["fighter"]]["move"].append(moveProp)
@@ -31,13 +28,10 @@ with open("dict_OutOfShieldStartup.pickle", mode='rb') as f:
 
 print("dict_OutOfShieldStartup")
 for fighter in data.values():
-    # print(fighter["fighter"], fighter)
     for key,value in fighter["OosStartup"].items():
         move = key
         frame = value["back"]
-        # print(move,frame)
         moveProp = {"move": move , "type":"OosStartup" + "back"}
-        # print(MoveList)
         if frame in MoveList :
             if fighter["fighter"] in MoveList[frame] :
                 MoveList[frame][fighter["fighter"]]["move"].append(moveProp)
