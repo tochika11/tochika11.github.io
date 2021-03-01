@@ -351,6 +351,22 @@
       "ShieldsLag": true
     }
   },
+  "セフィロス": {
+    "No.": "78",
+    "fighter": "セフィロス",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
+  "セフィロス（片翼）": {
+    "No.": "78",
+    "fighter": "セフィロス（片翼）",
+    "property": {
+      "OutOfSheildStartup": false,
+      "ShieldsLag": true
+    }
+  },
   "ゼニガメ": {
     "No.": "33",
     "fighter": "ゼニガメ",

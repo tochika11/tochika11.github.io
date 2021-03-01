@@ -47,20 +47,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "15"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "Mr.ゲーム&ウォッチ"
@@ -77,8 +77,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "14",
@@ -113,20 +113,20 @@
         "forward": "12"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "18",
         "forward": "18"
       },
       "空前": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空後": {
         "back": "8",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "Wii Fit トレーナー"
@@ -175,24 +175,24 @@
         "forward": "21"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "7"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "16",
         "forward": "16"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "17"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "こどもリンク"
@@ -209,11 +209,11 @@
         "forward": "18"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "上強": {
@@ -245,20 +245,20 @@
         "forward": "8"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "16",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "しずえ"
@@ -275,11 +275,11 @@
         "forward": "18"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "12"
       },
       "上強": {
@@ -311,20 +311,20 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "16",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "むらびと"
@@ -377,20 +377,20 @@
         "forward": "16"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "17"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "アイク"
@@ -407,8 +407,8 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "14",
@@ -443,20 +443,20 @@
         "forward": "13"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "15"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "24"
       },
       "空後": {
         "back": "11",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "アイスクライマー"
@@ -473,8 +473,8 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "18",
@@ -509,20 +509,20 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "インクリング"
@@ -575,20 +575,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "ウルフ"
@@ -642,19 +642,19 @@
       },
       "空上": {
         "back": "14",
-        "forward": "-"
+        "forward": "DontHave"
       },
       "空下": {
         "back": "15",
         "forward": "15"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "14"
       },
       "空後": {
         "back": "16",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "カムイ"
@@ -671,8 +671,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "16",
@@ -715,12 +715,12 @@
         "forward": "21"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "カービィ"
@@ -773,20 +773,20 @@
         "forward": "8"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ガオガエン"
@@ -835,11 +835,11 @@
         "forward": "21"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空下": {
@@ -847,12 +847,12 @@
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "20"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ガノンドロフ"
@@ -873,7 +873,7 @@
         "forward": "13"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "22"
       },
       "上強": {
@@ -901,24 +901,24 @@
         "forward": "18"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "キャプテン・ファルコン"
@@ -935,11 +935,11 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "21"
       },
       "上強": {
@@ -967,24 +967,24 @@
         "forward": "23"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "14"
       },
       "空後": {
         "back": "22",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "キングクルール"
@@ -1037,20 +1037,20 @@
         "forward": "21"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "22",
         "forward": "22"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "16"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "クッパ"
@@ -1067,7 +1067,7 @@
         "forward": "15"
       },
       "上B": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "17"
       },
       "上スマ": {
@@ -1103,20 +1103,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "18",
         "forward": "18"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "15",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "クッパ Jr."
@@ -1169,20 +1169,20 @@
         "forward": "15"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "14",
         "forward": "14"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "22"
       },
       "空後": {
         "back": "14",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "クラウド"
@@ -1231,7 +1231,7 @@
         "forward": "19"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空上": {
@@ -1243,12 +1243,12 @@
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "11",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "クロム"
@@ -1301,8 +1301,8 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "11",
@@ -1313,8 +1313,8 @@
         "forward": "11"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "ケン"
@@ -1331,8 +1331,8 @@
         "forward": "14"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "18",
@@ -1367,20 +1367,20 @@
         "forward": "20"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "21"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ゲッコウガ"
@@ -1429,11 +1429,11 @@
         "forward": "19"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空下": {
@@ -1441,12 +1441,12 @@
         "forward": "20"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "33"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "サムス・ダークサムス"
@@ -1467,8 +1467,8 @@
         "forward": "6"
       },
       "上スマ": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上強": {
         "back": "22",
@@ -1499,20 +1499,20 @@
         "forward": "11"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "17"
       },
       "空後": {
         "back": "17",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "シモン・リヒター"
@@ -1565,20 +1565,20 @@
         "forward": "18"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "19"
       },
       "空後": {
         "back": "25",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "シュルク"
@@ -1595,8 +1595,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "11",
@@ -1627,24 +1627,24 @@
         "forward": "16"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "6"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "18"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空後": {
         "back": "7",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "シーク"
@@ -1661,11 +1661,11 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "上強": {
@@ -1697,20 +1697,20 @@
         "forward": "16"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "16",
         "forward": "18"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ジョーカー"
@@ -1727,11 +1727,11 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "上強": {
@@ -1759,24 +1759,24 @@
         "forward": "15"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空上": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       },
       "空下": {
         "back": "12",
         "forward": "6"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "28"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "スネーク"
@@ -1829,7 +1829,7 @@
         "forward": "7"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空下": {
@@ -1837,12 +1837,12 @@
         "forward": "9"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空後": {
         "back": "8",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ゼニガメ"
@@ -1895,20 +1895,20 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ゼルダ"
@@ -1957,24 +1957,24 @@
         "forward": "17"
       },
       "空N": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空後": {
         "back": "11",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ゼロスーツサムス"
@@ -1991,8 +1991,8 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "21",
@@ -2031,16 +2031,16 @@
         "forward": "8"
       },
       "空下": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空後": {
         "back": "16",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ソニック"
@@ -2057,8 +2057,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "20",
@@ -2093,20 +2093,20 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ダックハント"
@@ -2159,20 +2159,20 @@
         "forward": "11"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "20",
         "forward": "20"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空後": {
         "back": "8",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ディディーコング"
@@ -2189,8 +2189,8 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "21",
@@ -2221,24 +2221,24 @@
         "forward": "23"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "25",
         "forward": "25"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "18"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "デデデ"
@@ -2291,20 +2291,20 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "20",
         "forward": "20"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "17"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "トゥーンリンク"
@@ -2357,7 +2357,7 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "7"
       },
       "空下": {
@@ -2365,12 +2365,12 @@
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "20"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ドクターマリオ"
@@ -2391,8 +2391,8 @@
         "forward": "7"
       },
       "上スマ": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上強": {
         "back": "17",
@@ -2419,24 +2419,24 @@
         "forward": "18"
       },
       "空N": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "25"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ドンキーコング"
@@ -2445,64 +2445,64 @@
     "No.": "100",
     "OosStartup": {
       "DA": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "つかみ": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上B": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上強": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "下スマ": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "下強": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "弱": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "横スマ": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "横強": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空N": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空上": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空前": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空後": {
-        "back": "",
-        "forward": ""
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "ナナ"
@@ -2519,8 +2519,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "24",
@@ -2555,20 +2555,20 @@
         "forward": "8"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "23",
         "forward": "23"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ネス"
@@ -2589,7 +2589,7 @@
         "forward": "4"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "上強": {
@@ -2621,20 +2621,20 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "9",
         "forward": "9"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "パックマン"
@@ -2651,8 +2651,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "12",
@@ -2687,20 +2687,20 @@
         "forward": "11"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "12",
         "forward": "12"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "17",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "パックンフラワー"
@@ -2717,11 +2717,11 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "18"
       },
       "上強": {
@@ -2753,20 +2753,20 @@
         "forward": "8"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "13",
         "forward": "13"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "12"
       },
       "空後": {
         "back": "11",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "パルテナ"
@@ -2783,8 +2783,8 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "14",
@@ -2827,12 +2827,12 @@
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "14"
       },
       "空後": {
         "back": "7",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ピカチュウ"
@@ -2849,8 +2849,8 @@
         "forward": "16"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "12",
@@ -2885,20 +2885,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "12",
         "forward": "12"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ピクミン&オリマー"
@@ -2915,8 +2915,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "10",
@@ -2959,12 +2959,12 @@
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "8",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ピチュー"
@@ -2981,11 +2981,11 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "7"
       },
       "上強": {
@@ -3017,20 +3017,20 @@
         "forward": "7"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "13",
         "forward": "14"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "14"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ピット・ブラックピット"
@@ -3083,20 +3083,20 @@
         "forward": "8"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "15",
-        "forward": "-"
+        "forward": "DontHave"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "21"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ピーチ・デイジー"
@@ -3113,11 +3113,11 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "7"
       },
       "上強": {
@@ -3149,20 +3149,20 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "13",
         "forward": "13"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ファルコ"
@@ -3179,8 +3179,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "10",
@@ -3215,20 +3215,20 @@
         "forward": "7"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "8",
         "forward": "8"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "フォックス"
@@ -3281,20 +3281,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "14",
         "forward": "14"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "18"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "フシギソウ"
@@ -3311,8 +3311,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "16",
@@ -3355,12 +3355,12 @@
         "forward": "10"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "プリン"
@@ -3381,7 +3381,7 @@
         "forward": "6"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "18"
       },
       "上強": {
@@ -3409,24 +3409,24 @@
         "forward": "23"
       },
       "空N": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "21"
       },
       "空前": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "ベヨネッタ"
@@ -3479,7 +3479,7 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "7"
       },
       "空下": {
@@ -3487,12 +3487,12 @@
         "forward": "8"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "19"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "マリオ"
@@ -3541,11 +3541,11 @@
         "forward": "19"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空下": {
@@ -3553,12 +3553,12 @@
         "forward": "14"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "マルス・ルキナ"
@@ -3575,8 +3575,8 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "9",
@@ -3611,20 +3611,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "18",
         "forward": "18"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "16",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ミュウツー"
@@ -3677,20 +3677,20 @@
         "forward": "9"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "7",
         "forward": "7"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "12"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "メタナイト"
@@ -3707,8 +3707,8 @@
         "forward": "18"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "15",
@@ -3744,19 +3744,19 @@
       },
       "空上": {
         "back": "8",
-        "forward": "-"
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "21"
       },
       "空後": {
         "back": "14",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ヨッシー"
@@ -3805,24 +3805,24 @@
         "forward": "23"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "15"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "21",
         "forward": "21"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
         "back": "17",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "リザードン"
@@ -3843,7 +3843,7 @@
         "forward": "3"
       },
       "上スマ": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "上強": {
@@ -3871,24 +3871,24 @@
         "forward": "15"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "5"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "14",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "リトル・マック"
@@ -3905,8 +3905,8 @@
         "forward": "12"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "12",
@@ -3941,20 +3941,20 @@
         "forward": "11"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "14"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "リドリー"
@@ -4007,8 +4007,8 @@
         "forward": "7"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "11",
@@ -4019,8 +4019,8 @@
         "forward": "11"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "リュウ"
@@ -4037,8 +4037,8 @@
         "forward": "16"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "28",
@@ -4081,12 +4081,12 @@
         "forward": "13"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "12"
       },
       "空後": {
         "back": "20",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "リュカ"
@@ -4139,20 +4139,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "19"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "リンク"
@@ -4205,20 +4205,20 @@
         "forward": "6"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空下": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
         "back": "9",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ルイージ"
@@ -4235,8 +4235,8 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "15",
@@ -4267,24 +4267,24 @@
         "forward": "23"
       },
       "空N": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "7",
         "forward": "7"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空後": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       }
     },
     "fighter": "ルカリオ"
@@ -4337,20 +4337,20 @@
         "forward": "11"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "16",
         "forward": "16"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "15"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ルフレ"
@@ -4399,7 +4399,7 @@
         "forward": "19"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空上": {
@@ -4411,12 +4411,12 @@
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "11",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ロイ"
@@ -4433,8 +4433,8 @@
         "forward": "11"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "14",
@@ -4469,20 +4469,20 @@
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "20",
         "forward": "20"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "13"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ロゼッタ&チコ"
@@ -4499,8 +4499,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "8",
@@ -4519,36 +4519,36 @@
         "forward": "16"
       },
       "弱": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "横スマ": {
         "back": "30",
         "forward": "30"
       },
       "横強": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "10"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "26",
         "forward": "26"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "12"
       },
       "空後": {
         "back": "7",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ロックマン"
@@ -4565,8 +4565,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "10",
@@ -4601,20 +4601,20 @@
         "forward": "27"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "24",
         "forward": "24"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空後": {
         "back": "22",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ロボット"
@@ -4667,20 +4667,20 @@
         "forward": "7"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "12",
         "forward": "12"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "8"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "ワリオ"
@@ -4697,8 +4697,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "",
-        "forward": "*"
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
       },
       "上スマ": {
         "back": "15",
@@ -4733,20 +4733,20 @@
         "forward": "19"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "17",
         "forward": "17"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "15"
       },
       "空後": {
         "back": "13",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "剣術Mii"
@@ -4767,8 +4767,8 @@
         "forward": "7"
       },
       "上スマ": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "上強": {
         "back": "20",
@@ -4799,20 +4799,20 @@
         "forward": "16"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "19",
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "19"
       },
       "空後": {
         "back": "21",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "勇者"
@@ -4829,8 +4829,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "",
-        "forward": "*"
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
       },
       "上スマ": {
         "back": "23",
@@ -4865,20 +4865,20 @@
         "forward": "18"
       },
       "空上": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空下": {
         "back": "23",
         "forward": "23"
       },
       "空前": {
-        "back": "-",
-        "forward": "-"
+        "back": "DontHave",
+        "forward": "DontHave"
       },
       "空後": {
         "back": "12",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "射撃Mii"
@@ -4895,8 +4895,8 @@
         "forward": "10"
       },
       "上B": {
-        "back": "",
-        "forward": "*"
+        "back": "DontHave",
+        "forward": "ToBeUpdated"
       },
       "上スマ": {
         "back": "13",
@@ -4927,11 +4927,11 @@
         "forward": "17"
       },
       "空N": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "6"
       },
       "空上": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "9"
       },
       "空下": {
@@ -4939,12 +4939,12 @@
         "forward": "19"
       },
       "空前": {
-        "back": "-",
+        "back": "DontHave",
         "forward": "11"
       },
       "空後": {
         "back": "10",
-        "forward": "-"
+        "forward": "DontHave"
       }
     },
     "fighter": "格闘Mii"
