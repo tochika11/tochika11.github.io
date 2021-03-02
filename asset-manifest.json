@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smash-tool/static/css/main.229d0cf6.chunk.css",
-    "main.js": "/smash-tool/static/js/main.6b9e844a.chunk.js",
-    "main.js.map": "/smash-tool/static/js/main.6b9e844a.chunk.js.map",
+    "main.js": "/smash-tool/static/js/main.ade533ba.chunk.js",
+    "main.js.map": "/smash-tool/static/js/main.ade533ba.chunk.js.map",
     "runtime-main.js": "/smash-tool/static/js/runtime-main.0264b177.js",
     "runtime-main.js.map": "/smash-tool/static/js/runtime-main.0264b177.js.map",
     "static/js/2.25bff4bc.chunk.js": "/smash-tool/static/js/2.25bff4bc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0264b177.js",
     "static/js/2.25bff4bc.chunk.js",
     "static/css/main.229d0cf6.chunk.css",
-    "static/js/main.6b9e844a.chunk.js"
+    "static/js/main.ade533ba.chunk.js"
   ]
 }
