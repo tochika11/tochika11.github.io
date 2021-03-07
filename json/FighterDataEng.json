@@ -1,0 +1,934 @@
+{
+  "Banjo & Kazooie": {
+    "No": "73",
+    "fighterEnglish": "Banjo & Kazooie",
+    "fighterJapanese": "バンジョー&カズーイ",
+    "move": {
+      "Breegull Blaster": "",
+      "Egg Firing": "",
+      "Rear Egg": "",
+      "Shock Spring Jump": "",
+      "Wonderwing": ""
+    }
+  },
+  "Bayonetta": {
+    "No": "63",
+    "fighterEnglish": "Bayonetta",
+    "fighterJapanese": "ベヨネッタ",
+    "move": {
+      "After Burner Kick": "",
+      "After Burner Kick (down)": "",
+      "Bullet Climax": "",
+      "Bullet Climax (full charge)": "",
+      "Heel Slide": "",
+      "Witch Twist": ""
+    }
+  },
+  "Bowser": {
+    "No": "14",
+    "fighterEnglish": "Bowser",
+    "fighterJapanese": "クッパ",
+    "move": {
+      "Whirling Fortress": ""
+    }
+  },
+  "Bowser Jr": {
+    "No": "58",
+    "fighterEnglish": "Bowser Jr",
+    "fighterJapanese": "クッパ Jr.",
+    "move": {
+      "Abandon Ship (hammer)": "",
+      "Clown Cannon": "",
+      "Clown Kart Dash (spinout)": ""
+    }
+  },
+  "Byleth": {
+    "No": "75",
+    "fighterEnglish": "Byleth",
+    "fighterJapanese": "ベレト／ベレス",
+    "move": {
+      "Areadbhar": "",
+      "Areadbhar (air)": "",
+      "Failnaught (full charge)": "",
+      "Failnaught (partial charge)": "",
+      "Sword of the Creator": ""
+    }
+  },
+  "Captain Falcon": {
+    "No": "11",
+    "fighterEnglish": "Captain Falcon",
+    "fighterJapanese": "キャプテン・ファルコン",
+    "move": {
+      "Falcon Kick": "",
+      "Falcon Kick (air)": "",
+      "Falcon Punch (normal/turnaround)": "",
+      "Raptor Boost": ""
+    }
+  },
+  "Charizard": {
+    "No": "35",
+    "fighterEnglish": "Charizard",
+    "fighterJapanese": "リザードン",
+    "move": {
+      "Flamethrower": "",
+      "Flare Blitz": ""
+    }
+  },
+  "Chrom": {
+    "No": "25e",
+    "fighterEnglish": "Chrom",
+    "fighterJapanese": "クロム",
+    "move": {
+      "Double Edged Dance": "",
+      "Double Edged Dance 2 Neutral": "",
+      "Double Edged Dance 2 Up": "",
+      "Double Edged Dance 3 Down": "",
+      "Double Edged Dance 3 Neutral": "",
+      "Double Edged Dance 3 Up": "",
+      "Double Edged Dance 4 Down": "",
+      "Double Edged Dance 4 Neutral": "",
+      "Double Edged Dance 4 Up": "",
+      "Flare Blade": "",
+      "Soaring Slash": ""
+    }
+  },
+  "Cloud": {
+    "No": "61",
+    "fighterEnglish": "Cloud",
+    "fighterJapanese": "クラウド",
+    "move": {
+      "Blade Beam ": "",
+      "Blade Beam (air)": "",
+      "Climhazzard followup": "",
+      "Cross Slash": "",
+      "Cross Slash 2": "",
+      "Cross Slash 3": "",
+      "Finishing Touch (ground/air)": "",
+      "Limit Blade Beam": "",
+      "Limit Blade Beam (air)": "",
+      "Limit Cross Slash": ""
+    }
+  },
+  "Corrin": {
+    "No": "62",
+    "fighterEnglish": "Corrin",
+    "fighterJapanese": "カムイ",
+    "move": {
+      "Dragon Fang Shot (chomp)": "",
+      "Dragon Lunge (Back kick)": "",
+      "Dragon Lunge (Pin Kick)": "",
+      "Dragon Lunge (Pin)": ""
+    }
+  },
+  "Diddy Kong": {
+    "No": "36",
+    "fighterEnglish": "Diddy Kong",
+    "fighterJapanese": "ディディーコング",
+    "move": {
+      "Monkey Flip (attack)": "",
+      "Peanut Popgun": "",
+      "Peanut Popgun (misfire)": "",
+      "Rocketbarrel Boost (explosion)": ""
+    }
+  },
+  "Donkey Kong": {
+    "No": "02",
+    "fighterEnglish": "Donkey Kong",
+    "fighterJapanese": "ドンキーコング",
+    "move": {
+      "Giant Punch": "",
+      "Giant Punch (full charge)": "",
+      "Hand Slap": "",
+      "Hand Slap (air)": "",
+      "Headbutt": "",
+      "Spinning Kong": ""
+    }
+  },
+  "Dr- Mario": {
+    "No": "18",
+    "fighterEnglish": "Dr- Mario",
+    "fighterJapanese": "ドクターマリオ",
+    "move": {
+      "Dr. Tornado": "",
+      "Megavitamin": "",
+      "Super Sheet": ""
+    }
+  },
+  "Duck Hunt": {
+    "No": "59",
+    "fighterEnglish": "Duck Hunt",
+    "fighterJapanese": "ダックハント",
+    "move": {}
+  },
+  "Falco": {
+    "No": "20",
+    "fighterEnglish": "Falco",
+    "fighterJapanese": "ファルコ",
+    "move": {
+      "Blaster (ground/air)": "",
+      "Falco Phantasm (ground/air)": "",
+      "Fire Bird": "",
+      "Reflector": ""
+    }
+  },
+  "Fox": {
+    "No": "07",
+    "fighterEnglish": "Fox",
+    "fighterJapanese": "フォックス",
+    "move": {
+      "Blaster (ground/air)": "",
+      "Fire Fox": "",
+      "Fox Illusion ": "",
+      "Fox Illusion (air)": "",
+      "Reflector": ""
+    }
+  },
+  "Ganondorf": {
+    "No": "23",
+    "fighterEnglish": "Ganondorf",
+    "fighterJapanese": "ガノンドロフ",
+    "move": {
+      "Warlock Punch (air) (normal/reversed)": "",
+      "Warlock Punch (normal/reversed)": "",
+      "Wizard's Foot": "",
+      "Wizard's Foot (air)": ""
+    }
+  },
+  "Greninja": {
+    "No": "50",
+    "fighterEnglish": "Greninja",
+    "fighterJapanese": "ゲッコウガ",
+    "move": {
+      "Shadow Sneak": "",
+      "Substitute (attack)": "",
+      "Water Shuriken": ""
+    }
+  },
+  "Hero": {
+    "No": "72",
+    "fighterEnglish": "Hero",
+    "fighterJapanese": "勇者",
+    "move": {
+      "--Kaboom": "",
+      "--Sizzle": "",
+      "--Thwack": "",
+      "-Bang": "",
+      "-Flame Slash": "",
+      "-Kacrackle Slash": "",
+      "-Magic Burst": "",
+      "-Metal Slash": "",
+      "-Sizz": "",
+      "-Whack": "",
+      "Frizz": "",
+      "Frizzle": "",
+      "Kafrizz": "",
+      "Kazap": "",
+      "Zap": "",
+      "Zapple": ""
+    }
+  },
+  "Ice Climbers": {
+    "No": "15",
+    "fighterEnglish": "Ice Climbers",
+    "fighterJapanese": "アイスクライマー",
+    "move": {
+      "Blizzard": "",
+      "Ice Shot": "",
+      "Squall Hammer (alone)": "",
+      "Squall Hammer (both)": ""
+    }
+  },
+  "Ike": {
+    "No": "32",
+    "fighterEnglish": "Ike",
+    "fighterJapanese": "アイク",
+    "move": {
+      "Aether": "",
+      "Eruption": "",
+      "Quick Draw": ""
+    }
+  },
+  "Incineroar": {
+    "No": "69",
+    "fighterEnglish": "Incineroar",
+    "fighterJapanese": "ガオガエン",
+    "move": {
+      "Cross Chop": "",
+      "Darkest Lariat": ""
+    }
+  },
+  "Inkling": {
+    "No": "64",
+    "fighterEnglish": "Inkling",
+    "fighterJapanese": "インクリング",
+    "move": {
+      "Splat Roller": "",
+      "Splattershot": "",
+      "Super Jump": ""
+    }
+  },
+  "Isabelle": {
+    "No": "68",
+    "fighterEnglish": "Isabelle",
+    "fighterJapanese": "しずえ",
+    "move": {}
+  },
+  "Ivysaur": {
+    "No": "34",
+    "fighterEnglish": "Ivysaur",
+    "fighterJapanese": "フシギソウ",
+    "move": {
+      "Bullet Seed": "",
+      "Razor Leaf": "",
+      "Vine Whip": ""
+    }
+  },
+  "Jigglypuff": {
+    "No": "12",
+    "fighterEnglish": "Jigglypuff",
+    "fighterJapanese": "プリン",
+    "move": {
+      "Pound": "",
+      "Rest": ""
+    }
+  },
+  "Ken": {
+    "No": "60e",
+    "fighterEnglish": "Ken",
+    "fighterJapanese": "ケン",
+    "move": {
+      "Focus Attack (stage 1)": "",
+      "Focus Attack (stage 2)": "",
+      "Focus Dash (forward/back)": "",
+      "Hadoken": "",
+      "Nata Otoshi Geri\n(Inazuma followup)": "",
+      "Oosoto Mawashi Geri\n(inazuma followup)": "",
+      "Tatsumaki Senpukyaku": "",
+      "Tatsumaki Senpukyaku (air)": ""
+    }
+  },
+  "King Dedede": {
+    "No": "39",
+    "fighterEnglish": "King Dedede",
+    "fighterJapanese": "デデデ",
+    "move": {
+      "Gordo Throw": "",
+      "Jet Hammer (full charge)": "",
+      "Jet Hammer (partial charge)": "",
+      "Super Dedede Jump": ""
+    }
+  },
+  "King K Rool": {
+    "No": "67",
+    "fighterEnglish": "King K Rool",
+    "fighterJapanese": "キングクルール",
+    "move": {
+      "Blunderbuss": "",
+      "Blunderbuss (second shot back)": "",
+      "Blunderbuss (second shot up)": "",
+      "Blunderbuss (second shot)": "",
+      "Crownerang": ""
+    }
+  },
+  "Kirby": {
+    "No": "06",
+    "fighterEnglish": "Kirby",
+    "fighterJapanese": "カービィ",
+    "move": {
+      "Final Cutter": "",
+      "Hammer Flip (full charge)": "",
+      "Hammer Flip (release)": "",
+      "Stone (air)": ""
+    }
+  },
+  "Link": {
+    "No": "03",
+    "fighterEnglish": "Link",
+    "fighterJapanese": "リンク",
+    "move": {
+      "Boomerang": "",
+      "Hero's Bow": "",
+      "Remote Bomb (detonate)": "",
+      "Spin Attack": ""
+    }
+  },
+  "Little Mac": {
+    "No": "49",
+    "fighterEnglish": "Little Mac",
+    "fighterJapanese": "リトル・マック",
+    "move": {
+      "Jolt Haymaker (air) (earliest/latest)": "",
+      "Jolt Haymaker (earliest/latest)": "",
+      "KO Punch": "",
+      "Straight Lunge (full charge)": "",
+      "Straight Lunge (partial charge)": ""
+    }
+  },
+  "Lucas": {
+    "No": "37",
+    "fighterEnglish": "Lucas",
+    "fighterJapanese": "リュカ",
+    "move": {
+      "PK Fire ": "",
+      "PK Freeze": "",
+      "PK Thunder 2": "",
+      "PSI Magnet": ""
+    }
+  },
+  "Lucina": {
+    "No": "21e",
+    "fighterEnglish": "Lucina",
+    "fighterJapanese": "ルキナ",
+    "move": {
+      "Dancing Blade 1": "",
+      "Dancing Blade 2 Neutral": "",
+      "Dancing Blade 2 Up": "",
+      "Dancing Blade 3 Down": "",
+      "Dancing Blade 3 Neutral": "",
+      "Dancing Blade 3 Up": "",
+      "Dancing Blade 4 Down": "",
+      "Dancing Blade 4 Neutral": "",
+      "Dancing Blade 4 Up": "",
+      "Shieldbreaker": ""
+    }
+  },
+  "Luigi": {
+    "No": "09",
+    "fighterEnglish": "Luigi",
+    "fighterJapanese": "ルイージ",
+    "move": {
+      "Fireball": "",
+      "Green Missile": "",
+      "Luigi Cyclone": "",
+      "Super Jump Punch (ground)": ""
+    }
+  },
+  "Mario": {
+    "No": "01",
+    "fighterEnglish": "Mario",
+    "fighterJapanese": "マリオ",
+    "move": {
+      "Cape": "",
+      "Fireball": ""
+    }
+  },
+  "Marth": {
+    "No": "21",
+    "fighterEnglish": "Marth",
+    "fighterJapanese": "マルス・ルキナ",
+    "move": {
+      "Dancing Blade 1": "",
+      "Dancing Blade 2 Neutral": "",
+      "Dancing Blade 2 Up": "",
+      "Dancing Blade 3 Down": "",
+      "Dancing Blade 3 Neutral": "",
+      "Dancing Blade 3 Up": "",
+      "Dancing Blade 4 Down": "",
+      "Dancing Blade 4 Neutral": "",
+      "Dancing Blade 4 Up": "",
+      "Shieldbreaker": ""
+    }
+  },
+  "Mega Man": {
+    "No": "46",
+    "fighterEnglish": "Mega Man",
+    "fighterJapanese": "ロックマン",
+    "move": {
+      "Buster": "",
+      "Metal Blade": ""
+    }
+  },
+  "Meta Knight": {
+    "No": "27",
+    "fighterEnglish": "Meta Knight",
+    "fighterJapanese": "メタナイト",
+    "move": {
+      "Dimensional Cape (attack)": "",
+      "Drill Rush": "",
+      "Mach Tornado": ""
+    }
+  },
+  "Mewtwo": {
+    "No": "24",
+    "fighterEnglish": "Mewtwo",
+    "fighterJapanese": "ミュウツー",
+    "move": {
+      "Disable": "",
+      "Shadow Ball (full charge)": "",
+      "Shadow Ball (partial charge)": ""
+    }
+  },
+  "Mii Brawler": {
+    "No": "51",
+    "fighterEnglish": "Mii Brawler",
+    "fighterJapanese": "格闘Mii",
+    "move": {
+      "Burning Dropkick": "",
+      "Exploding Side Kick": "",
+      "Feint Jump": "",
+      "Feint Jump (manual kick)": "",
+      "Flashing Mach Punch": "",
+      "Head-On Assault": "",
+      "Head-On Assault (air)": "",
+      "Shot Put": "",
+      "Soaring Axe Kick": ""
+    }
+  },
+  "Mii Gunner": {
+    "No": "53",
+    "fighterEnglish": "Mii Gunner",
+    "fighterJapanese": "射撃Mii",
+    "move": {
+      "Absorbing Vortex": "",
+      "Bomb Drop": "",
+      "Charge Blast": "",
+      "Echo Reflector": "",
+      "Flame Pillar": "",
+      "Grenade Launch": "",
+      "Gunner Missile (homing)": "",
+      "Gunner Missile (super)": "",
+      "Laser Blaze": "",
+      "Stealth Burst": ""
+    }
+  },
+  "Mii Swordfighter": {
+    "No": "52",
+    "fighterEnglish": "Mii Swordfighter",
+    "fighterJapanese": "剣術Mii",
+    "move": {
+      "Airborne Assault": "",
+      "Blurring Blade": "",
+      "Chakram": "",
+      "Gale Stab": "",
+      "Gale Strike": "",
+      "Hero's Spin": "",
+      "Power Thrust": "",
+      "Power Thrust (air)": "",
+      "Reversal Slash": "",
+      "Shuriken of Light": "",
+      "Skyward Slash Dash": "",
+      "Stone Scabbard": ""
+    }
+  },
+  "Min Min": {
+    "No": "76",
+    "fighterEnglish": "Min Min",
+    "fighterJapanese": "ミェンミェン",
+    "move": {
+      "Left punch (Smash A)": "",
+      "Left punch (no smash A)": "",
+      "Right punch (Dragon) ": "",
+      "Right punch (Dragon) (Smash)": "",
+      "Right punch (Megawatt)": "",
+      "Right punch (Megawatt)(Smash)": "",
+      "Right punch (Ramram)": "",
+      "Right punch (Ramram)(Smash)": ""
+    }
+  },
+  "Mr- Game & Watch": {
+    "No": "26",
+    "fighterEnglish": "Mr- Game & Watch",
+    "fighterJapanese": "Mr.ゲーム&ウォッチ",
+    "move": {
+      "Chef": "",
+      "Judge 1": "",
+      "Judge 2": "",
+      "Judge 3": "",
+      "Judge 4": "",
+      "Judge 5": "",
+      "Judge 6": "",
+      "Judge 7": "",
+      "Judge 8": "",
+      "Judge 9": ""
+    }
+  },
+  "Mythra": {
+    "No": "80",
+    "fighterEnglish": "Mythra",
+    "fighterJapanese": "ヒカリ",
+    "move": {
+      "Lightning Buster": "",
+      "Photon Edge": ""
+    }
+  },
+  "Ness": {
+    "No": "10",
+    "fighterEnglish": "Ness",
+    "fighterJapanese": "ネス",
+    "move": {
+      "PK Fire": "",
+      "PK Flash ": "",
+      "PK Thunder": "",
+      "PK Thunder 2": "",
+      "PSI Magnet": ""
+    }
+  },
+  "PAC-MAN": {
+    "No": "55",
+    "fighterEnglish": "PAC-MAN",
+    "fighterJapanese": "パックマン",
+    "move": {
+      "Bonus Fruit (throw)": "",
+      "Fire Hydrant": "",
+      "Power Pellet (travel | Dash)": ""
+    }
+  },
+  "Palutena": {
+    "No": "54",
+    "fighterEnglish": "Palutena",
+    "fighterJapanese": "パルテナ",
+    "move": {
+      "Autoreticle": "",
+      "Explosive Flame": ""
+    }
+  },
+  "Peach-Daisy": {
+    "No": "13",
+    "fighterEnglish": "Peach-Daisy",
+    "fighterJapanese": "ピーチ・デイジー",
+    "move": {
+      "Peach Bomber": "",
+      "Peach Bomber (air)": ""
+    }
+  },
+  "Pichu": {
+    "No": "19",
+    "fighterEnglish": "Pichu",
+    "fighterJapanese": "ピチュー",
+    "move": {
+      "Skull Bash": "",
+      "Thunder (projectile/discharge)": "",
+      "Thunder Jolt (projectile/arc)": ""
+    }
+  },
+  "Pikachu": {
+    "No": "08",
+    "fighterEnglish": "Pikachu",
+    "fighterJapanese": "ピカチュウ",
+    "move": {
+      "Quick Attack (one/two dashes)": "",
+      "Skull Bash (uncharged) (ground/air)": "",
+      "Thunder (projectile/Discharge)": "",
+      "Thunder Jolt": ""
+    }
+  },
+  "Piranha Plant": {
+    "No": "70",
+    "fighterEnglish": "Piranha Plant",
+    "fighterJapanese": "パックンフラワー",
+    "move": {
+      "Long-Stem Strike": "",
+      "Ptooie": ""
+    }
+  },
+  "Pit-Dark Pit": {
+    "No": "28",
+    "fighterEnglish": "Pit-Dark Pit",
+    "fighterJapanese": "ピット・ブラックピット",
+    "move": {
+      "Electroshock Arm (Dark Pit)": "",
+      "Electroshock Arm (air) (Dark Pit)": "",
+      "Palutena's Bow (Pit)": "",
+      "Silver Bow (Dark Pit)": "",
+      "Uppderdash Arm (air) (Pit)": "",
+      "Upperdash Arm (Pit)": ""
+    }
+  },
+  "Pyra": {
+    "No": "79",
+    "fighterEnglish": "Pyra",
+    "fighterJapanese": "ホムラ",
+    "move": {
+      "Flame Nova": "",
+      "Prominence Revolt": ""
+    }
+  },
+  "R-O-B-": {
+    "No": "42",
+    "fighterEnglish": "R-O-B-",
+    "fighterJapanese": "ロボット",
+    "move": {
+      "Arm Rotor": "",
+      "Arm Rotor (mashing)": "",
+      "Gyro": "",
+      "Gyro (full charge)": "",
+      "Robo Beam (Large)": "",
+      "Robo Beam (Small)": ""
+    }
+  },
+  "Ridley": {
+    "No": "65",
+    "fighterEnglish": "Ridley",
+    "fighterJapanese": "リドリー",
+    "move": {
+      "Plasma Breath (uncharged | full charge)": "",
+      "Skewer": "",
+      "Wing Blitz (up/horizontal/down)": ""
+    }
+  },
+  "Robin": {
+    "No": "56",
+    "fighterEnglish": "Robin",
+    "fighterJapanese": "ルフレ",
+    "move": {
+      "Arcfire": "",
+      "Arcthunder (vortex) ": "",
+      "Thoron": "",
+      "Thunder/Elthunder/Arcthunder": ""
+    }
+  },
+  "Rosalina & Luma": {
+    "No": "48",
+    "fighterEnglish": "Rosalina & Luma",
+    "fighterJapanese": "ロゼッタ&チコ",
+    "move": {
+      "Luma Shot": "",
+      "Star Bits": ""
+    }
+  },
+  "Roy": {
+    "No": "25",
+    "fighterEnglish": "Roy",
+    "fighterJapanese": "ロイ",
+    "move": {
+      "Double Edged Dance": "",
+      "Double Edged Dance 2 Neutral": "",
+      "Double Edged Dance 2 Up": "",
+      "Double Edged Dance 3 Down": "",
+      "Double Edged Dance 3 Neutral": "",
+      "Double Edged Dance 3 Up": "",
+      "Double Edged Dance 4 Down": "",
+      "Double Edged Dance 4 Neutral": "",
+      "Double Edged Dance 4 Up": "",
+      "Flare Blade": ""
+    }
+  },
+  "Ryu": {
+    "No": "60",
+    "fighterEnglish": "Ryu",
+    "fighterJapanese": "リュウ",
+    "move": {
+      "Focus Attack (stage 1)": "",
+      "Focus Attack (stage 2)": "",
+      "Focus Dash (forward/back)": "",
+      "Hadoken": "",
+      "Shakunetsu Hadoken": "",
+      "Tatsumaki Senpukyaku": "",
+      "Tatsumaki Senpukyaku (air)": "",
+      "True Hadoken": ""
+    }
+  },
+  "Samus-Dark Samus": {
+    "No": "04",
+    "fighterEnglish": "Samus-Dark Samus",
+    "fighterJapanese": "サムス・ダークサムス",
+    "move": {
+      "Charge Shot (full charge)": "",
+      "Charge Shot (partial charge)": "",
+      "Homing Missile": "",
+      "Super Missile": ""
+    }
+  },
+  "Sephiroth": {
+    "No": "78",
+    "fighterEnglish": "Sephiroth",
+    "fighterJapanese": "セフィロス",
+    "move": {
+      "Blade Dash": "",
+      "Flare": "",
+      "Gigaflare": "",
+      "Megaflare": "",
+      "Octaslash": "",
+      "Scintilla": "",
+      "Shadow Flare": ""
+    }
+  },
+  "Sheik": {
+    "No": "16",
+    "fighterEnglish": "Sheik",
+    "fighterJapanese": "シーク",
+    "move": {
+      "Bouncing Fish": "",
+      "Burst Grenade": "",
+      "Needle Storm (full charge)": "",
+      "Needle Storm (partial charge)": "",
+      "Vanish": ""
+    }
+  },
+  "Shulk": {
+    "No": "57",
+    "fighterEnglish": "Shulk",
+    "fighterJapanese": "シュルク",
+    "move": {
+      "Back Slash": ""
+    }
+  },
+  "Shulk (Arts)": {
+    "No": "57",
+    "fighterEnglish": "Shulk (Arts)",
+    "fighterJapanese": "シュルク",
+    "move": {
+      "Back Slash (buster)": "",
+      "Back Slash (shield)": "",
+      "Back Slash (smash)": "",
+      "Back Slash (speed)": ""
+    }
+  },
+  "Simon-Richter": {
+    "No": "66",
+    "fighterEnglish": "Simon-Richter",
+    "fighterJapanese": "シモン・リヒター",
+    "move": {
+      "Axe ": "",
+      "Cross": ""
+    }
+  },
+  "Snake": {
+    "No": "31",
+    "fighterEnglish": "Snake",
+    "fighterJapanese": "スネーク",
+    "move": {
+      "C4 (detonation)": "",
+      "Remote Missile": ""
+    }
+  },
+  "Sonic": {
+    "No": "38",
+    "fighterEnglish": "Sonic",
+    "fighterJapanese": "ソニック",
+    "move": {
+      "Homing Attack": "",
+      "Spin Charge": "",
+      "Spin Dash": "",
+      "Spin Dash/Spin Charge (jump)": "",
+      "Spring Jump": ""
+    }
+  },
+  "Squirtle": {
+    "No": "33",
+    "fighterEnglish": "Squirtle",
+    "fighterJapanese": "ゼニガメ",
+    "move": {
+      "Withdraw": ""
+    }
+  },
+  "Steve": {
+    "No": "77",
+    "fighterEnglish": "Steve",
+    "fighterJapanese": "スティーブ／アレックス",
+    "move": {
+      "Gold Hatchet swipe": "",
+      "Gold Sword swipe": ""
+    }
+  },
+  "Terry": {
+    "No": "74",
+    "fighterEnglish": "Terry",
+    "fighterJapanese": "テリー",
+    "move": {
+      "Burning Knuckle (input) (weak/strong)": "",
+      "Burning Knuckle (weak/strong)": "",
+      "Buster Wolf": "",
+      "Crack Shoot": "",
+      "Power Dunk (weak | strong)": "",
+      "Power Geyser": "",
+      "Power Wave (air)": "",
+      "Power Wave (weak/strong)": "",
+      "Spot Dodge attack": ""
+    }
+  },
+  "Toon Link": {
+    "No": "43",
+    "fighterEnglish": "Toon Link",
+    "fighterJapanese": "トゥーンリンク",
+    "move": {
+      "Boomerang": "",
+      "Hero's Bow": "",
+      "Spin Attack": ""
+    }
+  },
+  "Villager": {
+    "No": "45",
+    "fighterEnglish": "Villager",
+    "fighterJapanese": "むらびと",
+    "move": {
+      "Lloid Rocket": "",
+      "Timber (axe)": "",
+      "Timber (tree grows/falls)": ""
+    }
+  },
+  "Wario": {
+    "No": "30",
+    "fighterEnglish": "Wario",
+    "fighterJapanese": "ワリオ",
+    "move": {
+      "Wario Bike (turnaround)": "",
+      "Wario Bike (wheelie)": "",
+      "Wario Waft (final stage)": "",
+      "Wario Waft (second stage)": "",
+      "Wario Waft (third stage)": ""
+    }
+  },
+  "Wii Fit Trainer": {
+    "No": "47",
+    "fighterEnglish": "Wii Fit Trainer",
+    "fighterJapanese": "Wii Fit トレーナー",
+    "move": {
+      "Header": "",
+      "Sun Salutation": "",
+      "Sun Salutation (full charge)": ""
+    }
+  },
+  "Wolf": {
+    "No": "44",
+    "fighterEnglish": "Wolf",
+    "fighterJapanese": "ウルフ",
+    "move": {
+      "Blaster": "",
+      "Fire Wolf": "",
+      "Reflector": ""
+    }
+  },
+  "Yoshi": {
+    "No": "05",
+    "fighterEnglish": "Yoshi",
+    "fighterJapanese": "ヨッシー",
+    "move": {
+      "Egg Roll": "",
+      "Egg Throw": "",
+      "Yoshi Bomb": "",
+      "Yoshi Bomb (air)": ""
+    }
+  },
+  "Young Link": {
+    "No": "22",
+    "fighterEnglish": "Young Link",
+    "fighterJapanese": "こどもリンク",
+    "move": {
+      "Boomerang": "",
+      "Fire Arrow": "",
+      "Spin Attack": ""
+    }
+  },
+  "Zelda": {
+    "No": "17",
+    "fighterEnglish": "Zelda",
+    "fighterJapanese": "ゼルダ",
+    "move": {
+      "Din's Fire": "",
+      "Farore's Wind ": "",
+      "Nayru's Love": "",
+      "Phantom Slash": ""
+    }
+  },
+  "Zero Suit Samus": {
+    "No": "29",
+    "fighterEnglish": "Zero Suit Samus",
+    "fighterJapanese": "ゼロスーツサムス",
+    "move": {
+      "Flip Jump (manual kick)": "",
+      "Paralyzer": "",
+      "Plasma Whip": ""
+    }
+  }
+}

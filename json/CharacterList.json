@@ -1,4 +1,20 @@
 {
+  "DLC10": {
+    "No.": "81",
+    "fighter": "DLC10",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
+  "DLC11": {
+    "No.": "82",
+    "fighter": "DLC11",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
   "Mr.ゲーム&ウォッチ": {
     "No.": "26",
     "fighter": "Mr.ゲーム&ウォッチ",
@@ -343,6 +359,14 @@
       "ShieldsLag": true
     }
   },
+  "スティーブ／アレックス": {
+    "No.": "77",
+    "fighter": "スティーブ／アレックス",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": false
+    }
+  },
   "スネーク": {
     "No.": "31",
     "fighter": "スネーク",
@@ -355,7 +379,7 @@
     "No.": "78",
     "fighter": "セフィロス",
     "property": {
-      "OutOfSheildStartup": false,
+      "OutOfSheildStartup": true,
       "ShieldsLag": true
     }
   },
@@ -411,7 +435,7 @@
     "No.": "74",
     "fighter": "テリー",
     "property": {
-      "OutOfSheildStartup": false,
+      "OutOfSheildStartup": true,
       "ShieldsLag": true
     }
   },
@@ -460,7 +484,7 @@
     "fighter": "ナナ",
     "property": {
       "OutOfSheildStartup": true,
-      "ShieldsLag": true
+      "ShieldsLag": false
     }
   },
   "ネス": {
@@ -475,7 +499,7 @@
     "No.": "73",
     "fighter": "バンジョー&カズーイ",
     "property": {
-      "OutOfSheildStartup": false,
+      "OutOfSheildStartup": true,
       "ShieldsLag": true
     }
   },
@@ -498,6 +522,14 @@
   "パルテナ": {
     "No.": "54",
     "fighter": "パルテナ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ヒカリ": {
+    "No.": "80",
+    "fighter": "ヒカリ",
     "property": {
       "OutOfSheildStartup": true,
       "ShieldsLag": true
@@ -635,7 +667,15 @@
     "No.": "75",
     "fighter": "ベレト／ベレス",
     "property": {
-      "OutOfSheildStartup": false,
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ホムラ": {
+    "No.": "79",
+    "fighter": "ホムラ",
+    "property": {
+      "OutOfSheildStartup": true,
       "ShieldsLag": true
     }
   },
@@ -667,7 +707,7 @@
     "No.": "76",
     "fighter": "ミェンミェン",
     "property": {
-      "OutOfSheildStartup": false,
+      "OutOfSheildStartup": true,
       "ShieldsLag": true
     }
   },
