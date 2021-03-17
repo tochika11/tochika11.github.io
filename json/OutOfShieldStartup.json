@@ -1270,7 +1270,7 @@
       },
       "上スマ": {
         "back": "19",
-        "forward": "15"
+        "forward": "12"
       },
       "上強": {
         "back": "19",
@@ -1864,14 +1864,14 @@
       },
       "上スマ": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "8"
       },
       "上強": {
         "back": "18",
         "forward": "17"
       },
       "下スマ": {
-        "back": "19",
+        "back": "20",
         "forward": "19"
       },
       "下強": {
@@ -1891,23 +1891,23 @@
         "forward": "15"
       },
       "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "7",
+        "forward": "7"
       },
       "空上": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "7",
+        "forward": "10"
       },
       "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "23",
+        "forward": "23"
       },
       "空前": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "12"
       },
       "空後": {
-        "back": "DontHave",
+        "back": "16",
         "forward": "DontHave"
       }
     },
@@ -1991,19 +1991,19 @@
         "forward": "11"
       },
       "上B": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "25",
+        "forward": "25"
       },
       "上スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "26",
+        "forward": "23"
       },
       "上強": {
         "back": "22",
         "forward": "21"
       },
       "下スマ": {
-        "back": "32",
+        "back": "33",
         "forward": "32"
       },
       "下強": {
@@ -2023,23 +2023,23 @@
         "forward": "25"
       },
       "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "12",
+        "forward": "12"
       },
       "空上": {
-        "back": "DontHave",
+        "back": "24",
         "forward": "DontHave"
       },
       "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "22",
+        "forward": "22"
       },
       "空前": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "20"
       },
       "空後": {
-        "back": "DontHave",
+        "back": "18",
         "forward": "DontHave"
       }
     },
@@ -2260,7 +2260,7 @@
       },
       "上スマ": {
         "back": "21",
-        "forward": "18"
+        "forward": "14"
       },
       "上強": {
         "back": "18",
@@ -3164,16 +3164,16 @@
         "forward": "10"
       },
       "上B": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "10",
+        "forward": "10"
       },
       "上スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "14",
+        "forward": "9"
       },
       "上強": {
         "back": "19",
-        "forward": "18"
+        "forward": "19"
       },
       "下スマ": {
         "back": "19",
@@ -3196,23 +3196,23 @@
         "forward": "19"
       },
       "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "12",
+        "forward": "12"
       },
       "空上": {
         "back": "DontHave",
         "forward": "DontHave"
       },
       "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "17",
+        "forward": "16"
       },
       "空前": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "11"
       },
       "空後": {
-        "back": "DontHave",
+        "back": "13",
         "forward": "DontHave"
       }
     },
@@ -3956,16 +3956,16 @@
         "forward": "11"
       },
       "上B": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "13",
+        "forward": "13"
       },
       "上スマ": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "15"
       },
       "上強": {
-        "back": "23",
-        "forward": "22"
+        "back": "22",
+        "forward": "23"
       },
       "下スマ": {
         "back": "23",
@@ -3988,23 +3988,23 @@
         "forward": "23"
       },
       "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "15",
+        "forward": "15"
       },
       "空上": {
         "back": "DontHave",
         "forward": "DontHave"
       },
       "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "21",
+        "forward": "20"
       },
       "空前": {
         "back": "DontHave",
-        "forward": "DontHave"
+        "forward": "14"
       },
       "空後": {
-        "back": "DontHave",
+        "back": "19",
         "forward": "DontHave"
       }
     },
@@ -4182,12 +4182,12 @@
         "forward": "DontHave"
       },
       "横強": {
-        "back": "11",
+        "back": "25",
         "forward": "DontHave"
       },
       "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
+        "back": "19",
+        "forward": "14"
       },
       "空上": {
         "back": "DontHave",
