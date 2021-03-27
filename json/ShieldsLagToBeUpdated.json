@@ -1,0 +1,722 @@
+{
+  "Mr.ゲーム&ウォッチ": {
+    "No.": "26",
+    "ShieldsLag": {},
+    "fighter": "Mr.ゲーム&ウォッチ"
+  },
+  "Wii Fit トレーナー (腹式)": {
+    "No.": "47",
+    "ShieldsLag": {},
+    "fighter": "Wii Fit トレーナー (腹式)"
+  },
+  "Wii Fit トレーナー (通常)": {
+    "No.": "47",
+    "ShieldsLag": {},
+    "fighter": "Wii Fit トレーナー (通常)"
+  },
+  "こどもリンク": {
+    "No.": "22",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "こどもリンク"
+  },
+  "しずえ": {
+    "No.": "68",
+    "ShieldsLag": {},
+    "fighter": "しずえ"
+  },
+  "むらびと": {
+    "No.": "45",
+    "ShieldsLag": {},
+    "fighter": "むらびと"
+  },
+  "アイク": {
+    "No.": "32",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "アイク"
+  },
+  "アイスクライマー (1人)": {
+    "No.": "15",
+    "ShieldsLag": {},
+    "fighter": "アイスクライマー (1人)"
+  },
+  "アイスクライマー (2人)": {
+    "No.": "15",
+    "ShieldsLag": {},
+    "fighter": "アイスクライマー (2人)"
+  },
+  "インクリング": {
+    "No.": "64",
+    "ShieldsLag": {
+      "上B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "インクリング"
+  },
+  "ウルフ": {
+    "No.": "44",
+    "ShieldsLag": {},
+    "fighter": "ウルフ"
+  },
+  "カムイ": {
+    "No.": "62",
+    "ShieldsLag": {
+      "NBかみつき": "ToBeUpdated"
+    },
+    "fighter": "カムイ"
+  },
+  "カービィ": {
+    "No.": "6",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "カービィ"
+  },
+  "ガオガエン": {
+    "No.": "69",
+    "ShieldsLag": {},
+    "fighter": "ガオガエン"
+  },
+  "ガノンドロフ": {
+    "No.": "23",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "NB(空中)": "ToBeUpdated",
+      "下B": "ToBeUpdated"
+    },
+    "fighter": "ガノンドロフ"
+  },
+  "キャプテン・ファルコン": {
+    "No.": "11",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "キャプテン・ファルコン"
+  },
+  "キングクルール": {
+    "No.": "67",
+    "ShieldsLag": {
+      "NB打ち返し": "ToBeUpdated",
+      "NB打ち返し上": "ToBeUpdated",
+      "NB打ち返し後": "ToBeUpdated"
+    },
+    "fighter": "キングクルール"
+  },
+  "クッパ": {
+    "No.": "14",
+    "ShieldsLag": {},
+    "fighter": "クッパ"
+  },
+  "クッパ Jr.": {
+    "No.": "58",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "クッパ Jr."
+  },
+  "クラウド": {
+    "No.": "61",
+    "ShieldsLag": {
+      "下B": "ToBeUpdated"
+    },
+    "fighter": "クラウド"
+  },
+  "クロム": {
+    "No.": "25'",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B1": "ToBeUpdated"
+    },
+    "fighter": "クロム"
+  },
+  "ケン": {
+    "No.": "60'",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "大外回し蹴り": "ToBeUpdated",
+      "横B": "ToBeUpdated",
+      "鉈落とし蹴り": "ToBeUpdated"
+    },
+    "fighter": "ケン"
+  },
+  "ケン（強）": {
+    "No.": "60'",
+    "ShieldsLag": {},
+    "fighter": "ケン（強）"
+  },
+  "ゲッコウガ": {
+    "No.": "50",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "下B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ゲッコウガ"
+  },
+  "サムス・ダークサムス": {
+    "No.": "4",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "サムス・ダークサムス"
+  },
+  "シモン・リヒター": {
+    "No.": "66",
+    "ShieldsLag": {},
+    "fighter": "シモン・リヒター"
+  },
+  "シュルク (撃)": {
+    "No.": "57",
+    "ShieldsLag": {},
+    "fighter": "シュルク (撃)"
+  },
+  "シュルク (斬)": {
+    "No.": "57",
+    "ShieldsLag": {},
+    "fighter": "シュルク (斬)"
+  },
+  "シュルク (疾)": {
+    "No.": "57",
+    "ShieldsLag": {},
+    "fighter": "シュルク (疾)"
+  },
+  "シュルク (盾)": {
+    "No.": "57",
+    "ShieldsLag": {},
+    "fighter": "シュルク (盾)"
+  },
+  "シュルク (通常)": {
+    "No.": "57",
+    "ShieldsLag": {},
+    "fighter": "シュルク (通常)"
+  },
+  "シーク": {
+    "No.": "16",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "シーク"
+  },
+  "ジョーカー": {
+    "No.": "71",
+    "ShieldsLag": {},
+    "fighter": "ジョーカー"
+  },
+  "ジョーカー (アルセーヌ)": {
+    "No.": "71",
+    "ShieldsLag": {},
+    "fighter": "ジョーカー (アルセーヌ)"
+  },
+  "スティーブ（ダイヤ）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（ダイヤ）"
+  },
+  "スティーブ（木材）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（木材）"
+  },
+  "スティーブ（石）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（石）"
+  },
+  "スティーブ（装備なし）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（装備なし）"
+  },
+  "スティーブ（金）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（金）"
+  },
+  "スティーブ（鉄）": {
+    "No.": "77",
+    "ShieldsLag": {},
+    "fighter": "スティーブ（鉄）"
+  },
+  "スネーク": {
+    "No.": "31",
+    "ShieldsLag": {
+      "下B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "スネーク"
+  },
+  "セフィロス": {
+    "No.": "78",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "セフィロス"
+  },
+  "セフィロス（片翼）": {
+    "No.": "78",
+    "ShieldsLag": {},
+    "fighter": "セフィロス（片翼）"
+  },
+  "ゼニガメ": {
+    "No.": "33",
+    "ShieldsLag": {},
+    "fighter": "ゼニガメ"
+  },
+  "ゼルダ": {
+    "No.": "17",
+    "ShieldsLag": {
+      "上B": "ToBeUpdated",
+      "下B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ゼルダ"
+  },
+  "ゼロスーツサムス": {
+    "No.": "29",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ゼロスーツサムス"
+  },
+  "ソニック": {
+    "No.": "38",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "下B": "ToBeUpdated"
+    },
+    "fighter": "ソニック"
+  },
+  "ダックハント": {
+    "No.": "59",
+    "ShieldsLag": {},
+    "fighter": "ダックハント"
+  },
+  "テリー": {
+    "No.": "74",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "パワーゲイザ－": "ToBeUpdated",
+      "下B": "ToBeUpdated",
+      "前B": "ToBeUpdated",
+      "後B": "ToBeUpdated"
+    },
+    "fighter": "テリー"
+  },
+  "ディディーコング": {
+    "No.": "36",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "上B爆発": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ディディーコング"
+  },
+  "デデデ": {
+    "No.": "39",
+    "ShieldsLag": {
+      "下B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "デデデ"
+  },
+  "トゥーンリンク": {
+    "No.": "43",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "トゥーンリンク"
+  },
+  "ドクターマリオ": {
+    "No.": "18",
+    "ShieldsLag": {},
+    "fighter": "ドクターマリオ"
+  },
+  "ドンキーコング": {
+    "No.": "2",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ドンキーコング"
+  },
+  "ネス": {
+    "No.": "10",
+    "ShieldsLag": {},
+    "fighter": "ネス"
+  },
+  "バンジョー&カズーイ": {
+    "No.": "73",
+    "ShieldsLag": {},
+    "fighter": "バンジョー&カズーイ"
+  },
+  "パックマン": {
+    "No.": "55",
+    "ShieldsLag": {},
+    "fighter": "パックマン"
+  },
+  "パックンフラワー": {
+    "No.": "70",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "下B": "ToBeUpdated"
+    },
+    "fighter": "パックンフラワー"
+  },
+  "パルテナ": {
+    "No.": "54",
+    "ShieldsLag": {},
+    "fighter": "パルテナ"
+  },
+  "ヒカリ": {
+    "No.": "80",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ヒカリ"
+  },
+  "ピカチュウ": {
+    "No.": "8",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ピカチュウ"
+  },
+  "ピクミン&オリマー (白)": {
+    "No.": "40",
+    "ShieldsLag": {},
+    "fighter": "ピクミン&オリマー (白)"
+  },
+  "ピクミン&オリマー (紫)": {
+    "No.": "40",
+    "ShieldsLag": {},
+    "fighter": "ピクミン&オリマー (紫)"
+  },
+  "ピクミン&オリマー (赤)": {
+    "No.": "40",
+    "ShieldsLag": {},
+    "fighter": "ピクミン&オリマー (赤)"
+  },
+  "ピクミン&オリマー (青)": {
+    "No.": "40",
+    "ShieldsLag": {},
+    "fighter": "ピクミン&オリマー (青)"
+  },
+  "ピクミン&オリマー (黄)": {
+    "No.": "40",
+    "ShieldsLag": {},
+    "fighter": "ピクミン&オリマー (黄)"
+  },
+  "ピチュー": {
+    "No.": "19",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ピチュー"
+  },
+  "ピット・ブラックピット": {
+    "No.": "28",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ピット・ブラックピット"
+  },
+  "ピーチ・デイジー": {
+    "No.": "13",
+    "ShieldsLag": {
+      "横スマッシュ": "ToBeUpdated"
+    },
+    "fighter": "ピーチ・デイジー"
+  },
+  "ファルコ": {
+    "No.": "20",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ファルコ"
+  },
+  "フォックス": {
+    "No.": "7",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "フォックス"
+  },
+  "フシギソウ": {
+    "No.": "34",
+    "ShieldsLag": {
+      "上B": "ToBeUpdated"
+    },
+    "fighter": "フシギソウ"
+  },
+  "プリン": {
+    "No.": "12",
+    "ShieldsLag": {},
+    "fighter": "プリン"
+  },
+  "ベヨネッタ": {
+    "No.": "63",
+    "ShieldsLag": {
+      "上B": "ToBeUpdated",
+      "前空中攻撃": "ToBeUpdated",
+      "横B": "ToBeUpdated",
+      "横B(空中)下向": "ToBeUpdated"
+    },
+    "fighter": "ベヨネッタ"
+  },
+  "ベヨネッタ (長押し最速)": {
+    "No.": "63",
+    "ShieldsLag": {},
+    "fighter": "ベヨネッタ (長押し最速)"
+  },
+  "ベレト／ベレス": {
+    "No.": "75",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated",
+      "横B(空中)": "ToBeUpdated"
+    },
+    "fighter": "ベレト／ベレス"
+  },
+  "ホムラ": {
+    "No.": "79",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ホムラ"
+  },
+  "マリオ": {
+    "No.": "1",
+    "ShieldsLag": {},
+    "fighter": "マリオ"
+  },
+  "マルス": {
+    "No.": "21",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "マルス"
+  },
+  "ミェンミェン": {
+    "No.": "76",
+    "ShieldsLag": {
+      "横Bスマドラゴン": "ToBeUpdated",
+      "横Bスマホットリング": "ToBeUpdated",
+      "横Bスマメガボルト": "ToBeUpdated",
+      "横Bメガボルト": "ToBeUpdated",
+      "横スマドラゴン": "ToBeUpdated",
+      "通常空中攻撃": "ToBeUpdated"
+    },
+    "fighter": "ミェンミェン"
+  },
+  "ミュウツー": {
+    "No.": "24",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ミュウツー"
+  },
+  "メタナイト": {
+    "No.": "27",
+    "ShieldsLag": {},
+    "fighter": "メタナイト"
+  },
+  "ヨッシー": {
+    "No.": "5",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ヨッシー"
+  },
+  "リザードン": {
+    "No.": "35",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "リザードン"
+  },
+  "リトル・マック": {
+    "No.": "49",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated",
+      "横B(空中)": "ToBeUpdated"
+    },
+    "fighter": "リトル・マック"
+  },
+  "リドリー": {
+    "No.": "65",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "リドリー"
+  },
+  "リュウ": {
+    "No.": "60",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated",
+      "横B(空中)": "ToBeUpdated"
+    },
+    "fighter": "リュウ"
+  },
+  "リュウ（強）": {
+    "No.": "60",
+    "ShieldsLag": {},
+    "fighter": "リュウ（強）"
+  },
+  "リュカ": {
+    "No.": "37",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "リュカ"
+  },
+  "リンク": {
+    "No.": "3",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "上B": "ToBeUpdated",
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "リンク"
+  },
+  "ルイージ": {
+    "No.": "9",
+    "ShieldsLag": {
+      "横B": "ToBeUpdated"
+    },
+    "fighter": "ルイージ"
+  },
+  "ルカリオ (0%)": {
+    "No.": "41",
+    "ShieldsLag": {},
+    "fighter": "ルカリオ (0%)"
+  },
+  "ルカリオ (190%)": {
+    "No.": "41",
+    "ShieldsLag": {},
+    "fighter": "ルカリオ (190%)"
+  },
+  "ルカリオ (65%)": {
+    "No.": "41",
+    "ShieldsLag": {},
+    "fighter": "ルカリオ (65%)"
+  },
+  "ルキナ": {
+    "No.": "21'",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated"
+    },
+    "fighter": "ルキナ"
+  },
+  "ルフレ (サンダーソード)": {
+    "No.": "56",
+    "ShieldsLag": {},
+    "fighter": "ルフレ (サンダーソード)"
+  },
+  "ルフレ (青銅)": {
+    "No.": "56",
+    "ShieldsLag": {},
+    "fighter": "ルフレ (青銅)"
+  },
+  "ロイ": {
+    "No.": "25",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "横B1": "ToBeUpdated",
+      "横B2N": "ToBeUpdated",
+      "横B2上": "ToBeUpdated",
+      "横B3N": "ToBeUpdated",
+      "横B3上": "ToBeUpdated",
+      "横B3下": "ToBeUpdated",
+      "横B4N": "ToBeUpdated",
+      "横B4上": "ToBeUpdated"
+    },
+    "fighter": "ロイ"
+  },
+  "ロゼッタ&チコ (チコ)": {
+    "No.": "48",
+    "ShieldsLag": {},
+    "fighter": "ロゼッタ&チコ (チコ)"
+  },
+  "ロゼッタ&チコ (ロゼッタ)": {
+    "No.": "48",
+    "ShieldsLag": {},
+    "fighter": "ロゼッタ&チコ (ロゼッタ)"
+  },
+  "ロックマン": {
+    "No.": "46",
+    "ShieldsLag": {},
+    "fighter": "ロックマン"
+  },
+  "ロボット": {
+    "No.": "42",
+    "ShieldsLag": {
+      "NB": "ToBeUpdated",
+      "NB最大": "ToBeUpdated",
+      "下B": "ToBeUpdated"
+    },
+    "fighter": "ロボット"
+  },
+  "ワリオ": {
+    "No.": "30",
+    "ShieldsLag": {},
+    "fighter": "ワリオ"
+  },
+  "剣術Mii": {
+    "No.": "52",
+    "ShieldsLag": {
+      "NB3ラピッドスラッシュ": "ToBeUpdated",
+      "上B3回転斬り": "ToBeUpdated",
+      "横B2疾風突き": "ToBeUpdated",
+      "横B3チャクラム": "ToBeUpdated"
+    },
+    "fighter": "剣術Mii"
+  },
+  "勇者": {
+    "No.": "72",
+    "ShieldsLag": {
+      "下Bイオナズン": "ToBeUpdated",
+      "下Bマダンテ": "ToBeUpdated"
+    },
+    "fighter": "勇者"
+  },
+  "勇者（ためるバイキルト）": {
+    "No.": "72",
+    "ShieldsLag": {},
+    "fighter": "勇者（ためるバイキルト）"
+  },
+  "勇者（ためる）": {
+    "No.": "72",
+    "ShieldsLag": {},
+    "fighter": "勇者（ためる）"
+  },
+  "勇者（バイキルト）": {
+    "No.": "72",
+    "ShieldsLag": {},
+    "fighter": "勇者（バイキルト）"
+  },
+  "射撃Mii": {
+    "No.": "53",
+    "ShieldsLag": {
+      "NB1ガンナーチャージ": "ToBeUpdated",
+      "NB3グレネードランチャー": "ToBeUpdated",
+      "横B2ステルスボム": "ToBeUpdated"
+    },
+    "fighter": "射撃Mii"
+  },
+  "格闘Mii": {
+    "No.": "51",
+    "ShieldsLag": {
+      "NB3爆裂サイドキック": "ToBeUpdated"
+    },
+    "fighter": "格闘Mii"
+  }
+}

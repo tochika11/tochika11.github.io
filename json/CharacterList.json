@@ -1,20 +1,4 @@
 {
-  "DLC10": {
-    "No.": "81",
-    "fighter": "DLC10",
-    "property": {
-      "OutOfSheildStartup": true,
-      "ShieldsLag": false
-    }
-  },
-  "DLC11": {
-    "No.": "82",
-    "fighter": "DLC11",
-    "property": {
-      "OutOfSheildStartup": true,
-      "ShieldsLag": false
-    }
-  },
   "Mr.ゲーム&ウォッチ": {
     "No.": "26",
     "fighter": "Mr.ゲーム&ウォッチ",

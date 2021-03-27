@@ -209,22 +209,22 @@
     "fighterEnglish": "Hero",
     "fighterJapanese": "勇者",
     "move": {
-      "--Kaboom": "",
-      "--Sizzle": "",
-      "--Thwack": "",
-      "-Bang": "",
-      "-Flame Slash": "",
-      "-Kacrackle Slash": "",
-      "-Magic Burst": "",
-      "-Metal Slash": "",
-      "-Sizz": "",
-      "-Whack": "",
-      "Frizz": "",
-      "Frizzle": "",
-      "Kafrizz": "",
-      "Kazap": "",
-      "Zap": "",
-      "Zapple": ""
+      "--Kaboom": "下Bイオナズン",
+      "--Sizzle": "下Bベギラマ",
+      "--Thwack": "下Bザラキ",
+      "-Bang": "下Bイオ",
+      "-Flame Slash": "下Bかえんぎり",
+      "-Kacrackle Slash": "下Bマヒャドぎり",
+      "-Magic Burst": "下Bマダンテ",
+      "-Metal Slash": "下Bメタルぎり",
+      "-Sizz": "下Bギラ",
+      "-Whack": "下Bザキ",
+      "Frizz": "NBメラ",
+      "Frizzle": "NBメラミ",
+      "Kafrizz": "NBメラゾーマ",
+      "Kazap": "横Bギガデイン",
+      "Zap": "横Bデイン",
+      "Zapple": "横Bライデイン"
     }
   },
   "Ice Climbers": {
@@ -301,8 +301,8 @@
       "Focus Attack (stage 2)": "",
       "Focus Dash (forward/back)": "",
       "Hadoken": "NB",
-      "Nata Otoshi Geri\n(Inazuma followup)": "",
-      "Oosoto Mawashi Geri\n(inazuma followup)": "",
+      "Nata Otoshi Geri\n(Inazuma followup)": "鉈落とし蹴り",
+      "Oosoto Mawashi Geri\n(inazuma followup)": "大外回し蹴り",
       "Tatsumaki Senpukyaku": "横B",
       "Tatsumaki Senpukyaku (air)": "横B(空中)"
     }
@@ -312,7 +312,7 @@
     "fighterEnglish": "King Dedede",
     "fighterJapanese": "デデデ",
     "move": {
-      "Gordo Throw": "",
+      "Gordo Throw": "横B",
       "Jet Hammer (full charge)": "下B最大",
       "Jet Hammer (partial charge)": "下B",
       "Super Dedede Jump": "上B"
@@ -338,7 +338,7 @@
       "Final Cutter": "上B",
       "Hammer Flip (full charge)": "横B最大",
       "Hammer Flip (release)": "横B",
-      "Stone (air)": ""
+      "Stone (air)": "下B(空中)"
     }
   },
   "Link": {
@@ -369,10 +369,10 @@
     "fighterEnglish": "Lucas",
     "fighterJapanese": "リュカ",
     "move": {
-      "PK Fire ": "",
-      "PK Freeze": "",
+      "PK Fire ": "横B",
+      "PK Freeze": "NB",
       "PK Thunder 2": "",
-      "PSI Magnet": ""
+      "PSI Magnet": "下B"
     }
   },
   "Lucina": {
@@ -515,14 +515,17 @@
     "fighterEnglish": "Min Min",
     "fighterJapanese": "ミェンミェン",
     "move": {
-      "Left punch (Smash A)": "",
-      "Left punch (no smash A)": "",
-      "Right punch (Dragon) ": "",
-      "Right punch (Dragon) (Smash)": "",
-      "Right punch (Megawatt)": "",
-      "Right punch (Megawatt)(Smash)": "",
-      "Right punch (Ramram)": "",
-      "Right punch (Ramram)(Smash)": ""
+      "Left punch (Smash A)": "横スマドラゴン",
+      "Left punch (no smash A)": "横Aドラゴン",
+      "N-air (Megawatt)": "空Nメガボルト",
+      "N-air (Ramram)": "空Nホットリング",
+      "N-air (either Dragon)": "空Nドラゴン",
+      "Right punch (Dragon) ": "横Bドラゴン",
+      "Right punch (Dragon) (Smash)": "横Bスマドラゴン",
+      "Right punch (Megawatt)": "横Bメガボルト",
+      "Right punch (Megawatt)(Smash)": "横Bスマメガボルト",
+      "Right punch (Ramram)": "横Bホットリング",
+      "Right punch (Ramram)(Smash)": "横Bスマホットリング"
     }
   },
   "Mr- Game & Watch": {
@@ -556,11 +559,11 @@
     "fighterEnglish": "Ness",
     "fighterJapanese": "ネス",
     "move": {
-      "PK Fire": "",
+      "PK Fire": "横B",
       "PK Flash ": "",
       "PK Thunder": "",
       "PK Thunder 2": "",
-      "PSI Magnet": ""
+      "PSI Magnet": "下B"
     }
   },
   "PAC-MAN": {
@@ -711,10 +714,10 @@
       "Focus Attack (stage 1)": "",
       "Focus Attack (stage 2)": "",
       "Focus Dash (forward/back)": "",
-      "Hadoken": "",
-      "Shakunetsu Hadoken": "",
-      "Tatsumaki Senpukyaku": "",
-      "Tatsumaki Senpukyaku (air)": "",
+      "Hadoken": "NB",
+      "Shakunetsu Hadoken": "灼熱波動拳",
+      "Tatsumaki Senpukyaku": "横B",
+      "Tatsumaki Senpukyaku (air)": "横B(空中)",
       "True Hadoken": ""
     }
   },
@@ -748,11 +751,11 @@
     "fighterEnglish": "Sheik",
     "fighterJapanese": "シーク",
     "move": {
-      "Bouncing Fish": "",
-      "Burst Grenade": "",
-      "Needle Storm (full charge)": "",
-      "Needle Storm (partial charge)": "",
-      "Vanish": ""
+      "Bouncing Fish": "下B",
+      "Burst Grenade": "横B",
+      "Needle Storm (full charge)": "NB",
+      "Needle Storm (partial charge)": "NB最大",
+      "Vanish": "上B"
     }
   },
   "Shulk": {
@@ -797,11 +800,11 @@
     "fighterEnglish": "Sonic",
     "fighterJapanese": "ソニック",
     "move": {
-      "Homing Attack": "",
-      "Spin Charge": "",
-      "Spin Dash": "",
+      "Homing Attack": "NB",
+      "Spin Charge": "横B",
+      "Spin Dash": "下B",
       "Spin Dash/Spin Charge (jump)": "",
-      "Spring Jump": ""
+      "Spring Jump": "上B"
     }
   },
   "Squirtle": {
@@ -809,7 +812,7 @@
     "fighterEnglish": "Squirtle",
     "fighterJapanese": "ゼニガメ",
     "move": {
-      "Withdraw": ""
+      "Withdraw": "横B"
     }
   },
   "Steve": {
@@ -828,13 +831,13 @@
     "move": {
       "Burning Knuckle (input) (weak/strong)": "前B",
       "Burning Knuckle (weak/strong)": "前B",
-      "Buster Wolf": "",
+      "Buster Wolf": "バスターウルフ",
       "Crack Shoot": "後B",
       "Power Dunk (weak | strong)": "下B",
-      "Power Geyser": "",
+      "Power Geyser": "パワーゲイザ－",
       "Power Wave (air)": "NB(空中)",
       "Power Wave (weak/strong)": "NB",
-      "Spot Dodge attack": ""
+      "Spot Dodge attack": "回避A"
     }
   },
   "Toon Link": {
@@ -894,10 +897,10 @@
     "fighterEnglish": "Yoshi",
     "fighterJapanese": "ヨッシー",
     "move": {
-      "Egg Roll": "",
-      "Egg Throw": "",
-      "Yoshi Bomb": "",
-      "Yoshi Bomb (air)": ""
+      "Egg Roll": "横B",
+      "Egg Throw": "上B",
+      "Yoshi Bomb": "下B",
+      "Yoshi Bomb (air)": "下B(空中)"
     }
   },
   "Young Link": {

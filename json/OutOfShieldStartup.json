@@ -1,136 +1,4 @@
 {
-  "DLC10": {
-    "No.": "81",
-    "OosStartup": {
-      "DA": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "つかみ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上B": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "下スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "下強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "弱": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "横スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "横強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空上": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空前": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空後": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      }
-    },
-    "fighter": "DLC10"
-  },
-  "DLC11": {
-    "No.": "82",
-    "OosStartup": {
-      "DA": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "つかみ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上B": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "上強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "下スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "下強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "弱": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "横スマ": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "横強": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空N": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空上": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空下": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空前": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      },
-      "空後": {
-        "back": "DontHave",
-        "forward": "DontHave"
-      }
-    },
-    "fighter": "DLC11"
-  },
   "Mr.ゲーム&ウォッチ": {
     "No.": "26",
     "OosStartup": {
@@ -1270,7 +1138,7 @@
       },
       "上スマ": {
         "back": "19",
-        "forward": "12"
+        "forward": "15"
       },
       "上強": {
         "back": "19",
@@ -5343,7 +5211,7 @@
       },
       "上B": {
         "back": "DontHave",
-        "forward": "ToBeUpdated"
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "15",
@@ -5475,7 +5343,7 @@
       },
       "上B": {
         "back": "DontHave",
-        "forward": "ToBeUpdated"
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "23",
@@ -5541,7 +5409,7 @@
       },
       "上B": {
         "back": "DontHave",
-        "forward": "ToBeUpdated"
+        "forward": "DontHave"
       },
       "上スマ": {
         "back": "13",
