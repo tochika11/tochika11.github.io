@@ -103,6 +103,14 @@
       "ShieldsLag": true
     }
   },
+  "カズヤ": {
+    "No.": "81",
+    "fighter": "カズヤ",
+    "property": {
+      "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
   "カムイ": {
     "No.": "62",
     "fighter": "カムイ",

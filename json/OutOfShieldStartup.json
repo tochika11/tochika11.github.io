@@ -593,6 +593,72 @@
     },
     "fighter": "ウルフ"
   },
+  "カズヤ": {
+    "No.": "81",
+    "OosStartup": {
+      "DA": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "つかみ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上B": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "上強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "下スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "下強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "弱": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "横スマ": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "横強": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空N": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空上": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空下": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空前": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      },
+      "空後": {
+        "back": "DontHave",
+        "forward": "DontHave"
+      }
+    },
+    "fighter": "カズヤ"
+  },
   "カムイ": {
     "No.": "62",
     "OosStartup": {

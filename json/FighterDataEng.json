@@ -234,6 +234,7 @@
     "fighterEnglish": "Greninja",
     "fighterJapanese": "ゲッコウガ",
     "move": {
+      "Down Taunt": "",
       "F-Smash ": "",
       "N-Air": "",
       "Shadow Sneak": "",
@@ -344,6 +345,37 @@
       "N-Air": "",
       "Pound": "",
       "Rest": ""
+    }
+  },
+  "Kazuya": {
+    "No": "81",
+    "fighterEnglish": "Kazuya",
+    "fighterJapanese": "カズヤ",
+    "move": {
+      "Crouch Spin Kick (down backward tilt while crouching)": "",
+      "Demon God Fist": "",
+      "Demon's Wrath (Side Taunt)": "",
+      "Devil Blaster": "",
+      "Devil Blaster (air) ": "",
+      "Devil Fist": "",
+      "Devil Wings": "",
+      "Dragon Uppercut": "",
+      "Electric Wind God Fist ": "",
+      "F-Smash": "",
+      "Flash Punch Combo": "",
+      "Flash Tornado (Backward Tilt)": "",
+      "Jump Side Kick (diagonally up backward tilt)": "",
+      "Left Splits Kick (Double Forward Tilt)": "",
+      "N-Air": "",
+      "Neijiri Uraken (Down tilt)": "",
+      "Oni Front Kick (Forward tilt)": "",
+      "Roundhouse to... (diagonally up forward tilt)": "",
+      "Spinning Demon to Left Hook": "",
+      "Stature Smash (diagonally down backward tilt)": "",
+      "Tombstone Crusher (down forward tilt while crouching)": "",
+      "Tsunami Kick (diagonally down forward tilt)": "",
+      "Twin Pistons (Up Tilt)": "",
+      "Wind God Fist": ""
     }
   },
   "Ken": {
@@ -470,6 +502,7 @@
     "fighterEnglish": "Luigi",
     "fighterJapanese": "ルイージ",
     "move": {
+      "Down Taunt": "",
       "F-Smash ": "",
       "Fireball": "",
       "Green Missile": "",
@@ -936,7 +969,8 @@
       "C4 (detonation)": "",
       "F-Smash": "",
       "N-Air": "",
-      "Remote Missile": ""
+      "Remote Missile": "",
+      "Taunt (emerge)": ""
     }
   },
   "Sonic": {

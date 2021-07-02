@@ -292,6 +292,43 @@
       "Rest": "下B"
     }
   },
+  "Kazuya": {
+    "No": "81",
+    "fighterEnglish": "Kazuya",
+    "fighterJapanese": "カズヤ",
+    "move": {
+      "10 Hit Combo":"弱(10連コンボ)",
+      "Flash Punch Combo":"弱(弱3)閃光烈拳",
+      "Oni Front Kick (Forward tilt)":"強攻撃(6A)鬼蹴り",
+      "Tsunami Kick (diagonally down forward tilt)":"強攻撃(3A)踵切り",
+      "Neijiri Uraken (Down tilt)":"強攻撃(2A)捻り裏拳",
+      "Stature Smash (diagonally down backward tilt)":"強攻撃(1A)腿砕き",
+      "Flash Tornado (Backward Tilt)":"強攻撃(4A)刃閃風",
+      "Jump Side Kick (diagonally up backward tilt)":"強攻撃(7A)ジャンプサイドキック",
+      "Twin Pistons (Up Tilt)":"強攻撃(8A)ダブルアッパー",
+      "Roundhouse to... (diagonally up forward tilt)":"強攻撃(9A)螺旋幻魔脚",
+      "Left Splits Kick (Double Forward Tilt)":"強攻撃(66A)左踵落とし",
+      "Tombstone Crusher (down forward tilt while crouching)":"しゃがみ攻撃(3A)螺旋岩砕蹴",
+      "Crouch Jab (Down tilt while crouching)":"しゃがみ攻撃(2A)シットジャブ",
+      "Crouch Spin Kick (down backward tilt while crouching)":"しゃがみ攻撃(1A)シットスピンキック",
+      "Demon God Fist":"魔神拳(立ち途中攻撃)",
+      "Wind God Fist":"風神拳(風神ステップ⁺短押し)",
+      "Electric Wind God Fist ":"最速風神拳",
+      "Dragon Uppercut":"雷神拳(風神ステップ⁺長押し)",
+      "Spinning Demon to Left Hook":"奈落旋風(風神ステップ⁺必殺)",
+      "Dash Attack":"ダッシュ攻撃(空斬脚)",
+      "Devil Blaster":"NB デビルブラスター",
+      "Devil Blaster (air) ":"NB デビルブラスター(空中)",
+      "Devil Fist":"横Bデビルフィスト",
+      "Heaven's Door":"下Bヘブンズドア",
+      "Heaven's Door (air)":"下Bヘブンズドア(空中)",
+      "Devil Wings":"上Bデビルウイング",
+      "Rage Drive (success)":"レイジドライブ",
+      "Demon's Wrath (Side Taunt)":"雷神烈衝拳(横アピール)",
+      "Gates of Hell":"地獄門(コマンド投げ 323+掴み)",
+      "Gates of Hell (success)":"地獄門(コマンド投げ 323+掴み)"
+    }
+  },
   "Ken": {
     "No": "60e",
     "fighterEnglish": "Ken",
