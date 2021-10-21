@@ -398,7 +398,7 @@
       "Megavitamin": "-23",
       "N-Air": "-4/-2",
       "Super Sheet": "-15",
-      "U-Air": "-4 ",
+      "U-Air": "-3 ",
       "U-Smash": "-19",
       "U-Tilt": "-17"
     },
@@ -671,7 +671,7 @@
   "Incineroar": {
     "Advantage": {
       "B-Air": "-7/-6",
-      "Cross Chop": "-51",
+      "Cross Chop": "-50/-54",
       "D-Air": "-11/-11/-12",
       "D-Smash": "-28",
       "D-Tilt ": "-11",
@@ -732,7 +732,7 @@
       "B-Air": "-3",
       "D-Air": "-5/-6",
       "D-Smash": "-28/-25",
-      "D-Tilt ": "-14/-18",
+      "D-Tilt ": "-11/-15",
       "Dash Attack": "-20",
       "F-Air": "-4",
       "F-Smash ": "-20",
@@ -787,7 +787,7 @@
   },
   "Jigglypuff": {
     "Advantage": {
-      "B-Air": "-6",
+      "B-Air": "-3",
       "D-Air": "-13",
       "D-Smash": "-26",
       "D-Tilt": "-10",
@@ -796,7 +796,7 @@
       "F-Smash ": "-22",
       "F-Tilt": "-7",
       "Jab 1": "-7",
-      "Jab 2": "-10",
+      "Jab 2": "-7",
       "N-Air": "-5/-6",
       "Pound": "-11",
       "Rest": "-189",
@@ -879,7 +879,7 @@
       "D-Air": "-10",
       "D-Smash": "-25",
       "D-Tilt (light)": "-9",
-      "D-Tilt (medium)": "-14",
+      "D-Tilt (medium)": "-14/-15",
       "Dash Attack": "-22",
       "F-Air": "-7/-6\n-7/-6",
       "F-Smash ": "-24/-21",
@@ -964,7 +964,7 @@
       "N-Air": "-8/-9",
       "U-Air": "-8/-9",
       "U-Smash": "-54/-42",
-      "U-Tilt": "-21"
+      "U-Tilt": "-20"
     },
     "Ignores": [
       "Blunderbuss (vacuum)",
@@ -1058,7 +1058,7 @@
       "N-Air": "-8",
       "Rapid finisher": "-25",
       "Straight Lunge (full charge)": "-82",
-      "Straight Lunge (partial charge)": "-34 to -19",
+      "Straight Lunge (partial charge)": "-32 to -17",
       "U-Air": "-10",
       "U-Smash": "-23",
       "U-Tilt": "-18"
@@ -1964,7 +1964,7 @@
       "D-Air": "-10",
       "D-Smash": "-25",
       "D-Tilt (light)": "-9",
-      "D-Tilt (medium)": "-14",
+      "D-Tilt (medium)": "-14/-15",
       "Dash Attack": "-22",
       "F-Air": "-7/-6\n-7/-6",
       "F-Smash ": "-19/-18",
@@ -2315,6 +2315,42 @@
     "No": "38",
     "fighterEnglish": "Sonic"
   },
+  "Sora": {
+    "Advantage": {
+      "B-Air": "-6",
+      "Blizzaga": "-13",
+      "D-Air": "-22",
+      "D-Smash": "-25",
+      "D-Tilt": "-16",
+      "Dash Attack": "-22",
+      "F-Air": "-9",
+      "F-Air 2": "-10",
+      "F-Air 3": "-11",
+      "F-Smash": "-17",
+      "F-Tilt (combo w/ finisher)": "-22",
+      "F-Tilt (combo)": "-17",
+      "F-Tilt (no combo)": "-13",
+      "Firaga": "-23",
+      "Jab 1": "-22",
+      "Jab 2": "-22",
+      "Jab 3": "-23",
+      "N-Air": "-6",
+      "N-Air 2": "-8",
+      "N-Air 3": "-8",
+      "Sonic Blade": "-25/-39/-43",
+      "U-Air": "-5",
+      "U-Smash": "-26",
+      "U-Tilt": "-15"
+    },
+    "Ignores": [
+      "Thundaga",
+      "Aerial Sweep",
+      "Counterattack",
+      "Counterattack (success)"
+    ],
+    "No": "82",
+    "fighterEnglish": "Sora"
+  },
   "Squirtle": {
     "Advantage": {
       "B-Air": "-15",
@@ -2639,7 +2675,7 @@
       "F-Smash ": "-16",
       "F-Tilt": "-13/-10",
       "Farore's Wind ": "-30/-33",
-      "Jab ": "-13",
+      "Jab ": "-12",
       "N-Air": "-10/-9",
       "Nayru's Love": "-25",
       "Phantom Slash": "-19 to -15",

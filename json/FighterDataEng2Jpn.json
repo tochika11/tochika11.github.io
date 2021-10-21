@@ -844,6 +844,40 @@
       "Spring Jump": "上B"
     }
   },
+  "Sora": {
+    "No": "82",
+    "fighterEnglish": "Sora",
+    "fighterJapanese": "ソラ",
+    "move": {
+      "Jab 1": "弱1",
+      "Jab 2": "弱2",
+      "Jab 3": "弱3",
+      "F-Tilt (no combo)":"横強単発",
+      "F-Tilt (combo)":"横強2",
+      "F-Tilt (combo w/ finisher)":"横強3",
+      "U-Tilt":"上強",
+      "D-Tilt":"下強",
+      "Dash Attack":"DA",
+      "F-Smash":"横スマッシュ",
+      "U-Smash":"上スマッシュ",
+      "D-Smash":"下スマッシュ",
+      "N-Air":"空N1",
+      "N-Air 2":"空N2",
+      "N-Air 3":"空N3",
+      "F-Air":"空前1",
+      "F-Air 2":"空前2",
+      "F-Air 3":"空前3",
+      "B-Air":"空後",
+      "U-Air":"空上",
+      "D-Air":"空下",
+      "Firaga":"NBファイガ",
+      "Thundaga":"NBサンダガ",
+      "Blizzaga":"NBブリザガ",
+      "Sonic Blade":"横B",
+      "Aerial Sweep":"上B",
+      "Counterattack":"下B"
+    }
+  },
   "Squirtle": {
     "No": "33",
     "fighterEnglish": "Squirtle",

@@ -107,7 +107,7 @@
     "No.": "81",
     "fighter": "カズヤ",
     "property": {
-      "OutOfSheildStartup": true,
+      "OutOfSheildStartup": false,
       "ShieldsLag": true
     }
   },
@@ -412,6 +412,14 @@
     "fighter": "ソニック",
     "property": {
       "OutOfSheildStartup": true,
+      "ShieldsLag": true
+    }
+  },
+  "ソラ": {
+    "No.": "82",
+    "fighter": "ソラ",
+    "property": {
+      "OutOfSheildStartup": false,
       "ShieldsLag": true
     }
   },

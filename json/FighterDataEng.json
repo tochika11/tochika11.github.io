@@ -987,6 +987,20 @@
       "Spring Jump": ""
     }
   },
+  "Sora": {
+    "No": "82",
+    "fighterEnglish": "Sora",
+    "fighterJapanese": "",
+    "move": {
+      "Blizzaga": "",
+      "F-Smash": "",
+      "Firaga": "",
+      "N-Air": "",
+      "N-Air 2": "",
+      "N-Air 3": "",
+      "Sonic Blade": ""
+    }
+  },
   "Squirtle": {
     "No": "33",
     "fighterEnglish": "Squirtle",
