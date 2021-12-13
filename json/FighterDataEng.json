@@ -759,6 +759,7 @@
     "fighterEnglish": "Piranha Plant",
     "fighterJapanese": "パックンフラワー",
     "move": {
+      "D-tilt":"",
       "F-Smash ": "",
       "Long-Stem Strike": "",
       "N-Air": "",
@@ -990,7 +991,7 @@
   "Sora": {
     "No": "82",
     "fighterEnglish": "Sora",
-    "fighterJapanese": "",
+    "fighterJapanese": "ソラ",
     "move": {
       "Blizzaga": "",
       "F-Smash": "",

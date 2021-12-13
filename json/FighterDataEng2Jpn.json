@@ -657,6 +657,7 @@
     "fighterEnglish": "Piranha Plant",
     "fighterJapanese": "パックンフラワー",
     "move": {
+      "D-Tilt":"下強",
       "Long-Stem Strike": "下B",
       "Ptooie": "NB"
     }
